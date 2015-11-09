@@ -1,5 +1,5 @@
---- MESH/ISSUES_MESH20151104.ttl.orig	2015-11-09 15:34:10.640093111 +0000
-+++ MESH/ISSUES_MESH20151104.ttl	2015-11-09 15:35:03.048093312 +0000
+--- MESH/ISSUES_MESH20151104.ttl	2015-11-09 15:34:10.640093111 +0000
++++ MESH/ISSUES_MESH20151104.ttl.fixed	2015-11-09 15:35:03.048093312 +0000
 @@ -264,7 +264,6 @@
  <http://purl.bioontology.org/ontology/MSH/C530722> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
  <http://purl.bioontology.org/ontology/MSH/C552525> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
