@@ -9,9 +9,9 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <download.directory>${project.build.directory}/download/</download.directory>
+    <download.directory>${project.build.directory}/download</download.directory>
     <version>2015.10.09</version>
-    <folder>2014-10-09</folder>
+    <folder>20151009</folder>
     <sha1>63b33ab6f05efc2006104c720008277b625fbf9a</sha1>
   </properties>
 
