@@ -28,7 +28,7 @@
       <plugin>
         <groupId>no.s11.dataplugin</groupId>
           <artifactId>data-maven-plugin</artifactId>
-          <version>0.0.6-SNAPSHOT</version>
+          <version>0.0.6</version>
           <extensions>true</extensions>
           <configuration>
             <dataDirectory>${download.directory}/${folder}</dataDirectory>
@@ -50,7 +50,8 @@
                     <url>http://ops.rsc.org/download/RDF-${version}.zip</url>
                     <unpack>true</unpack>
                     <outputDirectory>${download.directory}</outputDirectory>
-                    <!--<sha1>${sha1}</sha1>-->
+                    <sha1>${sha1}</sha1>
+                    <skipCache>true</skipCache>
                 </configuration>
             </execution>
         </executions>
@@ -67,6 +68,17 @@
       <snapshots />
     </repository>
   </repositories>
+
+  <pluginRepositories>
+    <pluginRepository>
+      <id>bintray-stain-maven</id>
+      <name>bintray-plugins</name>
+      <url>http://dl.bintray.com/stain/maven</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </pluginRepository>
+  </pluginRepositories>
 
   <distributionManagement>
     <repository>
