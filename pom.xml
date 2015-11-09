@@ -43,7 +43,8 @@
           <targetDirectory>${data.directory}</targetDirectory>
           <strictPatching>true</strictPatching>
           <patches>
-            <patch>01-mesh-turtle-fixes.patch</patch>
+            <patch>01-mesh-linkset-exact.patch</patch>
+            <patch>02-mesh-issues.patch</patch>
           </patches>
         </configuration>
         <executions>

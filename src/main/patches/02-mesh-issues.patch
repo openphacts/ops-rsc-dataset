@@ -1,0 +1,310 @@
+--- MESH/ISSUES_MESH20151104.ttl.orig	2015-11-09 15:34:10.640093111 +0000
++++ MESH/ISSUES_MESH20151104.ttl	2015-11-09 15:35:03.048093312 +0000
+@@ -264,7 +264,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C530722> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C552525> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C065052> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... -phenyl-2H-1,4-benzothiazine. 4-(3-(dimethylamino)propyl)-3,4-dihydro-alpha-> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C074006> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C084622> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C558221> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+@@ -604,16 +603,12 @@
+ <http://purl.bioontology.org/ontology/MSH/C109614> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C091756> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C539306> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... minohexanoic acid)-6-(L-2-(2-amino-1,4,5,6-tetrahydro-4-pyrimidinyl)glycine)> cheminf:CHEMINF_000560 "Custom user validation information; Contains N=C-OH tautomer of a carbonyl compound"@en .
+-<http://purl.bioontology.org/ontology/MSH/... minohexanoic acid)-6-(L-2-(2-amino-1,4,5,6-tetrahydro-4-pyrimidinyl)glycine)> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C568720> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C014087> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000593721> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C539731> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C077003> cheminf:CHEMINF_000560 "Contains 1 radical"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000593212> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 5> cheminf:CHEMINF_000560 "Layout has uneven length bonds"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 5> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C578821> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C574684> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/D010137> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+@@ -901,7 +896,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C529907> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000595640> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/D009568> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... eta-hydroxypiromidic acid. 8-ethyl-5,8-dihydro-2-(3-hydroxy-1-pyrrolidinyl)-> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C022116> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C084197> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C010286> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+@@ -1699,7 +1693,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C023345> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C572065> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C064245> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... Z,11aR*))-3a,4,5,8,9,11a- hexahydro-4-hydroxy-10-(hydroxymethyl)-6-methyl-3-> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C058848> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C418732> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C525328> cheminf:CHEMINF_000560 "Contains partially undefined stereo: mixtures"@en .
+@@ -2021,7 +2014,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C469331> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C539548> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C081039> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... -6,7-dihydropyrrolo(3,2-e)-5-methylpyrazolo(1,5-a)pyrimidine-3-carbonitrile.> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C063296> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C070042> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C012231> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+@@ -2077,7 +2069,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C574653> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000591456> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C050144> cheminf:CHEMINF_000560 "Contains L-pyranose"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 93> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C001011> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C064817> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C060503> cheminf:CHEMINF_000560 "Contains partially undefined stereo: mixtures"@en .
+@@ -2425,8 +2416,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C544830> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C016466> cheminf:CHEMINF_000560 "Contains L-pyranose"@en .
+ <http://purl.bioontology.org/ontology/MSH/C016466> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... ucleotide. inner salt adenosine 5'-(trihydrogen diphosphate) 5-5'-ester with> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+-<http://purl.bioontology.org/ontology/MSH/... ucleotide. inner salt adenosine 5'-(trihydrogen diphosphate) 5-5'-ester with> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded N (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C498374> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C001502> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C528891> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+@@ -2815,8 +2804,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C431223> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C431223> cheminf:CHEMINF_000560 "Layout is congested"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000486> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 2,6,10,14,18,22,26,30,34,38,42-tetratetracontaundecaenyl hydrogen phosphate)> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 2,6,10,14,18,22,26,30,34,38,42-tetratetracontaundecaenyl hydrogen phosphate)> cheminf:CHEMINF_000560 "Contains L-pyranose"@en .
+ <http://purl.bioontology.org/ontology/MSH/C111203> cheminf:CHEMINF_000560 "Contains partially undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C575580> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C075352> cheminf:CHEMINF_000560 "Layout has uneven length bonds"@en .
+@@ -2918,7 +2905,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C119600> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C003905> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000588684> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 4((tetrahydro-1,2,3,4-naphthyl-2)-1'-piperidine-4'-spiro)-5-oxazolidinone-2.> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C068093> cheminf:CHEMINF_000560 "Custom user validation information; Contains N=C-OH tautomer of a carbonyl compound"@en .
+ <http://purl.bioontology.org/ontology/MSH/C068093> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000595642> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+@@ -3220,7 +3206,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C510412> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C580952> cheminf:CHEMINF_000560 "Forbidden valence/charge combination; P has 2 bond(s), charge of 0, 0 radical(s)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C061810> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... pyrrolizin-7-yl)methyl ester (1S-(1 alpha,7(2R*,3S*),7a alpha))-2-hydroxy-2-> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C572639> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C530081> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000594116> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+@@ -3281,7 +3266,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C051262> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C532475> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C532475> cheminf:CHEMINF_000560 "More than one instance of a same molecule"@en .
+-<http://purl.bioontology.org/ontology/MSH/... ophenyl)-5-methyl-4-isox azolyl)carbonyl)amino)-3,3-dimethyl-7-oxo-4-thia-1-> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C081668> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C020486> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C057405> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+@@ -3501,7 +3485,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C480660> cheminf:CHEMINF_000560 "Layout is congested"@en .
+ <http://purl.bioontology.org/ontology/MSH/C480660> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C480660> cheminf:CHEMINF_000560 "Layout has uneven length bonds"@en .
+-<http://purl.bioontology.org/ontology/MSH/... amethylchroman-2-carboxylic acid. 3,4-dihydro-6-hydroxy-2,5,7,8-tetramethyl-> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C071467> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C109670> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C571568> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+@@ -3701,7 +3684,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C017211> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/D008455> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C482665> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... ,15-epoxygeranylgeraniol. 13-(3,3-dimethyloxiranyl)-3,7,11-trimethyl-2,6,10-> cheminf:CHEMINF_000560 "Custom user validation information; Contains enol function"@en .
+ <http://purl.bioontology.org/ontology/MSH/C409609> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C071157> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/D010892> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+@@ -4152,8 +4134,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C000661> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C477541> cheminf:CHEMINF_000560 "More than one instance of a same molecule"@en .
+ <http://purl.bioontology.org/ontology/MSH/C050896> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/...  2-benzyl-1,4-dimethyl-5-hydroxymethyl-2,5-epi-trithia-3,6-diketopiperazine.> cheminf:CHEMINF_000560 "Layout is congested"@en .
+-<http://purl.bioontology.org/ontology/MSH/...  2-benzyl-1,4-dimethyl-5-hydroxymethyl-2,5-epi-trithia-3,6-diketopiperazine.> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C020769> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C080161> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C552286> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+@@ -4362,7 +4342,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C574708> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C110284> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C068321> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 408> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C475422> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C572281> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C558061> cheminf:CHEMINF_000560 "Contains SP3 stereo in ring"@en .
+@@ -4753,7 +4732,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C057491> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C074085> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C557921> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... ,5 alpha,6 alpha,8a beta))-octahydro-3-methyl-8-methylene-5-(1-methylethyl)-> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C554205> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C020848> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C020848> cheminf:CHEMINF_000560 "Custom user validation information; Contains enol function"@en .
+@@ -4810,7 +4788,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C014005> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C014005> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C068006> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 95> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C073244> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C549342> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C476168> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+@@ -5560,7 +5537,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C506828> cheminf:CHEMINF_000560 "Contains 1 radical"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000597472> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000589155> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 2-trihydroxycholestan-26-oic acid. (3 alpha,5 beta,7 alpha,12 alpha)-3,7,12-> cheminf:CHEMINF_000560 "Contains partially undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C486876> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C115478> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C534147> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+@@ -5580,7 +5556,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C522293> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C438014> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C556584> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+-<http://purl.bioontology.org/ontology/MSH/... -hydroxytetrahydrocortisone. 1 beta,3 alpha,17 alpha,21-tetrahydroxy-5 beta-> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C530727> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C079811> cheminf:CHEMINF_000560 "Contains partially undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C069012> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+@@ -5681,7 +5656,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C561418> cheminf:CHEMINF_000560 "Contains 2 radical"@en .
+ <http://purl.bioontology.org/ontology/MSH/C091518> cheminf:CHEMINF_000560 "Layout is congested"@en .
+ <http://purl.bioontology.org/ontology/MSH/C091518> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 2-cyclohexy-6-hydroxybenzo(b)thien-3-yl)(4-(2-(1- piperidinyl)ethoxy)phenyl)> cheminf:CHEMINF_000560 "Contains free carbon monoxide"@en .
+ <http://purl.bioontology.org/ontology/MSH/C022228> cheminf:CHEMINF_000560 "Contains partially undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C416962> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C064754> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+@@ -5791,7 +5765,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C071100> cheminf:CHEMINF_000560 "Layout is congested"@en .
+ <http://purl.bioontology.org/ontology/MSH/C071100> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C545572> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... lpha-methylandrosta-1,4-diene. 4-chloro-17 alpha-methyl-17 beta-hydroxy-1,4-> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C024269> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C049743> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C488107> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+@@ -6878,7 +6851,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C067957> cheminf:CHEMINF_000560 "Layout has uneven length bonds"@en .
+ <http://purl.bioontology.org/ontology/MSH/C007063> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C497707> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 1,2,3,4 tetrahydro-2-(3-mercapto-1-oxopropyl)-1-isoquinolinecarboxylic acid.> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000595512> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C549901> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C559362> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+@@ -7782,7 +7754,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C576344> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C576344> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C470786> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... beta-carboxyethyl)-3,3-dimethyl-6'-nitrospiro(indoline- 2,2'-2H-benzopyran).> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/D007556> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000590621> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/D015784> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+@@ -7897,7 +7868,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C472226> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C473735> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C061429> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/...  (((4-(1,4,5,6R-trans-tetrahydro-2- pyrimidinyl)phenyl)acetyl)amino)-5-thia-> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C511333> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C534282> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C073522> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+@@ -8130,7 +8100,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C017337> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C409476> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C485831> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 5407. 8-(3-((1,1-dimethylethyl)amino)-2-hydroxypropoxy)-1,2,3,4-tetrahydro-,> cheminf:CHEMINF_000560 "Layout is congested"@en .
+ <http://purl.bioontology.org/ontology/MSH/C445365> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C058255> cheminf:CHEMINF_000560 "Layout has uneven length bonds"@en .
+ <http://purl.bioontology.org/ontology/MSH/C058255> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+@@ -8185,7 +8154,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C056253> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C478621> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C495034> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... ,7 beta))-3-(2-(2,4-dinitrophenyl)ethenyl)-8-oxo-7-((2-thienylacetyl)amino)-> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C090023> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C526810> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C573703> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+@@ -8643,7 +8611,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C074453> cheminf:CHEMINF_000560 "Contains partially undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C116815> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/D007660> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... O-(2,2,2-trichloro-1-hydroxyethyl)-alpha-D-glucopyranose 1 to 4 polymer with> cheminf:CHEMINF_000560 "Contains L-pyranose"@en .
+ <http://purl.bioontology.org/ontology/MSH/C005753> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C021236> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C003902> cheminf:CHEMINF_000560 "Layout is congested"@en .
+@@ -9213,7 +9180,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C061299> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C075810> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000590562> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... olidinecarboxylate. monoester with 5-hydroxy-6-methyl-3,4-pyridinedimethanol> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000591066> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C077826> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C572452> cheminf:CHEMINF_000560 "More than one instance of a same molecule"@en .
+@@ -9282,7 +9248,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C010789> cheminf:CHEMINF_000560 "Layout has uneven length bonds"@en .
+ <http://purl.bioontology.org/ontology/MSH/C076168> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C021276> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 800> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C086131> cheminf:CHEMINF_000560 "Contains partially undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/D010365> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C504897> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+@@ -9357,7 +9322,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C063222> cheminf:CHEMINF_000560 "Layout has uneven length bonds"@en .
+ <http://purl.bioontology.org/ontology/MSH/C063222> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C550361> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... daicin (eudesmane naphthofuran). 3a,5,5a,9,9a,9b-hexahydro-9-hydroxy-3,5a,9-> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C406347> cheminf:CHEMINF_000560 "Contains partially undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C528990> cheminf:CHEMINF_000560 "Contains 2 radical"@en .
+ <http://purl.bioontology.org/ontology/MSH/D008549> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+@@ -9614,7 +9578,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C002455> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C075266> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C078547> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... idinylidene)ethylidene)-5- (beta-D-glucopyranosyloxy)-2,3-dihydro-6-hydroxy-> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C109116> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C055986> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000253> cheminf:CHEMINF_000560 "Layout has uneven length bonds"@en .
+@@ -9829,7 +9792,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C075514> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C507486> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C556396> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... ha-D-mannopyranosyl phosphate. 1-(3,7-dimethyl-6-octenyl hydrogen phosphate)> cheminf:CHEMINF_000560 "Contains L-pyranose"@en .
+ <http://purl.bioontology.org/ontology/MSH/C576642> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/D014239> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C055418> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+@@ -10033,7 +9995,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C496952> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C072819> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000592155> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... ine. 3-((4-amino-2-methyl-5-pyrimidinyl)methyl)-5-(2-hydroxyethyl)-4-methyl-> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000595057> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C486784> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C507518> cheminf:CHEMINF_000560 "More than one instance of a same molecule"@en .
+@@ -10268,7 +10229,6 @@
+ <http://purl.bioontology.org/ontology/MSH/D004246> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C471864> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C487115> cheminf:CHEMINF_000560 "Custom user validation information; Contains enol function"@en .
+-<http://purl.bioontology.org/ontology/MSH/... e tromethamine. compd. with 2-amino-2- (hydroxymethyl)-1,3-propanediol (1> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C074871> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C021178> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C480782> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+@@ -10343,7 +10303,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C000589572> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C000589572> cheminf:CHEMINF_000560 "More than one instance of a same molecule"@en .
+ <http://purl.bioontology.org/ontology/MSH/C055840> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+-<http://purl.bioontology.org/ontology/MSH/...  6-amino-alpha-(((1-methyl-3-phenylpropyl)amino)methyl)-3-pyridine methanol.> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C121642> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C523679> cheminf:CHEMINF_000560 "Contains L-pyranose"@en .
+ <http://purl.bioontology.org/ontology/MSH/C523679> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+@@ -10567,7 +10526,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C012219> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C012219> cheminf:CHEMINF_000560 "Layout is congested"@en .
+ <http://purl.bioontology.org/ontology/MSH/C553285> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 7> cheminf:CHEMINF_000560 "Custom user validation information; Contains enol function"@en .
+ <http://purl.bioontology.org/ontology/MSH/C475344> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C496949> cheminf:CHEMINF_000560 "Contains non-neutral component"@en .
+ <http://purl.bioontology.org/ontology/MSH/C496949> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+@@ -10659,7 +10617,6 @@
+ <http://purl.bioontology.org/ontology/MSH/C090018> cheminf:CHEMINF_000559 "Layout module altered InChI"@en .
+ <http://purl.bioontology.org/ontology/MSH/C059045> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+ <http://purl.bioontology.org/ontology/MSH/C402268> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
+-<http://purl.bioontology.org/ontology/MSH/... 5-trideoxy-5-(L-methionyl)amino-beta-D-glycero-pent-2-enofuranosyl)cytosine.> cheminf:CHEMINF_000560 "Contains partially undefined stereo: epimers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C461921> cheminf:CHEMINF_000560 "Contains completely undefined stereo: enantiomers"@en .
+ <http://purl.bioontology.org/ontology/MSH/C015557> cheminf:CHEMINF_000560 "Contains non-linear triply-bonded C (>2 degree)"@en .
+ <http://purl.bioontology.org/ontology/MSH/C067799> cheminf:CHEMINF_000560 "Contains completely undefined stereo: mixtures"@en .
