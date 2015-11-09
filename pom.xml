@@ -63,7 +63,7 @@
         <version>1.2.1</version>
         <executions>
             <execution>
-                <id>get-</id>
+                <id>get-data</id>
                 <phase>generate-sources</phase>
                 <goals>
                     <goal>wget</goal>
