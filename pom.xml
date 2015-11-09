@@ -10,6 +10,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <download.directory>${project.build.directory}/download</download.directory>
+    <data.directory>${download.directory}/${folder}</data.directory>
     <version>2015.11.04</version>
     <folder>20151104</folder>
     <sha1>63b33ab6f05efc2006104c720008277b625fbf9a</sha1>
@@ -31,8 +32,29 @@
           <version>0.0.6</version>
           <extensions>true</extensions>
           <configuration>
-            <dataDirectory>${download.directory}/${folder}</dataDirectory>
+            <dataDirectory>${data.directory}</dataDirectory>
           </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-patch-plugin</artifactId>
+        <version>1.2</version>
+        <configuration>
+          <targetDirectory>${data.directory}</targetDirectory>
+          <strictPatching>true</strictPatching>
+          <patches>
+            <patch>01-mesh-turtle-fixes.patch</patch>
+          </patches>
+        </configuration>
+        <executions>
+          <execution>
+            <id>patch</id>
+            <phase>process-sources</phase>
+            <goals>
+              <goal>apply</goal>
+            </goals>
+          </execution>
+        </executions>
       </plugin>
       <plugin>
         <groupId>com.googlecode.maven-download-plugin</groupId>
@@ -51,7 +73,7 @@
                     <unpack>true</unpack>
                     <outputDirectory>${download.directory}</outputDirectory>
                     <sha1>${sha1}</sha1>
-                    <skipCache>true</skipCache>
+                    <!--<skipCache>true</skipCache>-->
                 </configuration>
             </execution>
         </executions>

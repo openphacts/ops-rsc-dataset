@@ -1,0 +1,955 @@
+--- MESH/LINKSET_EXACT_MESH20151104.ttl	2015-11-04 04:24:28.000000000 +0100
++++ MESH/LINKSET_EXACT_MESH20151104.ttl.fixed	2015-11-09 15:29:05.161230896 +0100
+@@ -145,7 +145,6 @@
+ <http://ops.rsc.org/OPS1868960> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C118492> .
+ <http://ops.rsc.org/OPS3114173> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C064349> .
+ <http://ops.rsc.org/OPS1071570> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C549711> .
+-<http://ops.rsc.org/OPS1947256> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... minohexanoic acid)-6-(L-2-(2-amino-1,4,5,6-tetrahydro-4-pyrimidinyl)glycine)> .
+ <http://ops.rsc.org/OPS3101126> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000593950> .
+ <http://ops.rsc.org/OPS935424> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C505561> .
+ <http://ops.rsc.org/OPS3096333> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C408993> .
+@@ -257,7 +256,6 @@
+ <http://ops.rsc.org/OPS984071> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C530722> .
+ <http://ops.rsc.org/OPS3116117> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C078188> .
+ <http://ops.rsc.org/OPS3114382> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C065052> .
+-<http://ops.rsc.org/OPS3107476> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -phenyl-2H-1,4-benzothiazine. 4-(3-(dimethylamino)propyl)-3,4-dihydro-alpha-> .
+ <http://ops.rsc.org/OPS1566649> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007017> .
+ <http://ops.rsc.org/OPS1861657> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007494> .
+ <http://ops.rsc.org/OPS137028> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C020988> .
+@@ -308,7 +306,6 @@
+ <http://ops.rsc.org/OPS3102299> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C541615> .
+ <http://ops.rsc.org/OPS1862999> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C017835> .
+ <http://ops.rsc.org/OPS88810> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D015071> .
+-<http://ops.rsc.org/OPS857448> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/...> .
+ <http://ops.rsc.org/OPS1879065> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C501184> .
+ <http://ops.rsc.org/OPS3095360> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C110565> .
+ <http://ops.rsc.org/OPS1708170> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C485234> .
+@@ -561,7 +558,6 @@
+ <http://ops.rsc.org/OPS1876949> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C086497> .
+ <http://ops.rsc.org/OPS3104455> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C558509> .
+ <http://ops.rsc.org/OPS536697> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C072944> .
+-<http://ops.rsc.org/OPS3108618> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... midophenyl- D-glucopyranoside. 3-(acetylamino)-5-(beta-D-glucopyranosyloxy)-> .
+ <http://ops.rsc.org/OPS1897838> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C472319> .
+ <http://ops.rsc.org/OPS3098050> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C478286> .
+ <http://ops.rsc.org/OPS48167> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C054649> .
+@@ -764,7 +760,6 @@
+ <http://ops.rsc.org/OPS3098779> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C500297> .
+ <http://ops.rsc.org/OPS1566727> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C507823> .
+ <http://ops.rsc.org/OPS99645> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D004369> .
+-<http://ops.rsc.org/OPS3107668> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... eta-hydroxypiromidic acid. 8-ethyl-5,8-dihydro-2-(3-hydroxy-1-pyrrolidinyl)-> .
+ <http://ops.rsc.org/OPS3112806> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C056363> .
+ <http://ops.rsc.org/OPS3103994> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C553812> .
+ <http://ops.rsc.org/OPS3112547> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C055978> .
+@@ -789,7 +784,6 @@
+ <http://ops.rsc.org/OPS1868422> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C467050> .
+ <http://ops.rsc.org/OPS447988> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C548388> .
+ <http://ops.rsc.org/OPS1872188> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C466901> .
+-<http://ops.rsc.org/OPS3110195> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... a(8)-tetrahydrocannabinol. (6aR-trans)-6a,7,10,10a-tetrahydro-1-hydroxy-6,6-> .
+ <http://ops.rsc.org/OPS1866399> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C487873> .
+ <http://ops.rsc.org/OPS451086> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C570288> .
+ <http://ops.rsc.org/OPS979348> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C526819> .
+@@ -867,7 +861,6 @@
+ <http://ops.rsc.org/OPS3105634> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C575156> .
+ <http://ops.rsc.org/OPS1264959> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C549969> .
+ <http://ops.rsc.org/OPS3111313> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C025934> .
+-<http://ops.rsc.org/OPS3111316> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 9> .
+ <http://ops.rsc.org/OPS117608> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C014934> .
+ <http://ops.rsc.org/OPS456487> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C570917> .
+ <http://ops.rsc.org/OPS3108940> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012782> .
+@@ -975,7 +968,6 @@
+ <http://ops.rsc.org/OPS3118044> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C091913> .
+ <http://ops.rsc.org/OPS3096154> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C401326> .
+ <http://ops.rsc.org/OPS3095701> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C116813> .
+-<http://ops.rsc.org/OPS3111102> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ,4a beta,4b alpha,10a alpha))-dodecahydro-1,4a-dimethyl-7-(1-methylethyl)-1-> .
+ <http://ops.rsc.org/OPS3099958> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C526579> .
+ <http://ops.rsc.org/OPS3100664> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000588958> .
+ <http://ops.rsc.org/OPS1864956> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C528616> .
+@@ -1440,7 +1432,6 @@
+ <http://ops.rsc.org/OPS1075287> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C078986> .
+ <http://ops.rsc.org/OPS1900975> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C523141> .
+ <http://ops.rsc.org/OPS664038> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D013989> .
+-<http://ops.rsc.org/OPS81309> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... alpha-dimethyl-4-(1,1,2,2-tetrafluoro-2-phenylethyl)benzenemethanamine (1> .
+ <http://ops.rsc.org/OPS1866862> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D014204> .
+ <http://ops.rsc.org/OPS1862990> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C062153> .
+ <http://ops.rsc.org/OPS1870821> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C495615> .
+@@ -1523,7 +1514,6 @@
+ <http://ops.rsc.org/OPS1947375> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C571669> .
+ <http://ops.rsc.org/OPS383225> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C011799> .
+ <http://ops.rsc.org/OPS1087258> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C538879> .
+-<http://ops.rsc.org/OPS3108514> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... Z,11aR*))-3a,4,5,8,9,11a- hexahydro-4-hydroxy-10-(hydroxymethyl)-6-methyl-3-> .
+ <http://ops.rsc.org/OPS3095178> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C108554> .
+ <http://ops.rsc.org/OPS3116349> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C079588> .
+ <http://ops.rsc.org/OPS3108746> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012161> .
+@@ -1578,7 +1568,6 @@
+ <http://ops.rsc.org/OPS1877922> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C018901> .
+ <http://ops.rsc.org/OPS1886027> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C085082> .
+ <http://ops.rsc.org/OPS934194> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C543262> .
+-<http://ops.rsc.org/OPS102009> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... e-divinylbenzene polymer. 2-methyl-2-Propenoic acid methyl esterpolymer with> .
+ <http://ops.rsc.org/OPS3098357> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C485124> .
+ <http://ops.rsc.org/OPS110433> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C020999> .
+ <http://ops.rsc.org/OPS1360759> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C483888> .
+@@ -2514,7 +2503,6 @@
+ <http://ops.rsc.org/OPS3106706> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000597840> .
+ <http://ops.rsc.org/OPS1866705> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C522375> .
+ <http://ops.rsc.org/OPS3100763> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000590241> .
+-<http://ops.rsc.org/OPS1019246> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... lmethyl)-4-((4-(1,1-dimethylethyl)phenyl)methyl)piperazine dihydrochloride &> .
+ <http://ops.rsc.org/OPS3118092> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C093201> .
+ <http://ops.rsc.org/OPS3097014> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C433943> .
+ <http://ops.rsc.org/OPS1872841> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C023656> .
+@@ -2532,7 +2520,6 @@
+ <http://ops.rsc.org/OPS1875743> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C481020> .
+ <http://ops.rsc.org/OPS3116072> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C077333> .
+ <http://ops.rsc.org/OPS1533814> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C119128> .
+-<http://ops.rsc.org/OPS3111165> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... l-gamma-amide dTTP. thymidine 5'-(trihydrogen diphosphate) P'-anhydride with> .
+ <http://ops.rsc.org/OPS3104345> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C558225> .
+ <http://ops.rsc.org/OPS1781097> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C011206> .
+ <http://ops.rsc.org/OPS1880417> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C055470> .
+@@ -2605,7 +2592,6 @@
+ <http://ops.rsc.org/OPS3115819> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C075382> .
+ <http://ops.rsc.org/OPS1866124> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C528038> .
+ <http://ops.rsc.org/OPS3106754> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000598709> .
+-<http://ops.rsc.org/OPS1350641> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ropylaminopropoxy)iodobenzene. 1-(2-iodophenoxy)-3-((1-methylethyl)amino)-2-> .
+ <http://ops.rsc.org/OPS3104563> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C560972> .
+ <http://ops.rsc.org/OPS1296678> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C474580> .
+ <http://ops.rsc.org/OPS959862> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C062053> .
+@@ -2626,7 +2612,6 @@
+ <http://ops.rsc.org/OPS1102249> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C556356> .
+ <http://ops.rsc.org/OPS3097317> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C447720> .
+ <http://ops.rsc.org/OPS1116176> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C010832> .
+-<http://ops.rsc.org/OPS3110179> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -acetyldinormethadol. acetate (ester) beta-(2-aminopropyl)-alpha-ethyl-beta-> .
+ <http://ops.rsc.org/OPS3117954> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C090822> .
+ <http://ops.rsc.org/OPS1077926> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C069235> .
+ <http://ops.rsc.org/OPS3096197> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C403564> .
+@@ -3130,7 +3115,6 @@
+ <http://ops.rsc.org/OPS1262711> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C547855> .
+ <http://ops.rsc.org/OPS3108021> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007994> .
+ <http://ops.rsc.org/OPS3103312> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C549054> .
+-<http://ops.rsc.org/OPS3108303> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... inamide. cyclic (1-6)-disulfide L-cysteinyl-L-tyrosyl-L-isoleucyl-L-seryl-L-> .
+ <http://ops.rsc.org/OPS3110367> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C019500> .
+ <http://ops.rsc.org/OPS1865785> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C528186> .
+ <http://ops.rsc.org/OPS2994739> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C006016> .
+@@ -3215,7 +3199,6 @@
+ <http://ops.rsc.org/OPS112071> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C547072> .
+ <http://ops.rsc.org/OPS1869788> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C507178> .
+ <http://ops.rsc.org/OPS3099481> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C522075> .
+-<http://ops.rsc.org/OPS3096122> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 5> .
+ <http://ops.rsc.org/OPS1896528> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C410922> .
+ <http://ops.rsc.org/OPS3107041> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C001868> .
+ <http://ops.rsc.org/OPS497187> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C527756> .
+@@ -3769,7 +3752,6 @@
+ <http://ops.rsc.org/OPS1875907> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C528354> .
+ <http://ops.rsc.org/OPS1771634> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C070376> .
+ <http://ops.rsc.org/OPS3101271> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000596289> .
+-<http://ops.rsc.org/OPS1788341> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 3-hydroxy-3-phenacyloxindole. 1,3-dihydro-3-hydroxy-3-(2-oxo-2-phenylethyl)-> .
+ <http://ops.rsc.org/OPS1308288> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C054004> .
+ <http://ops.rsc.org/OPS2848720> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C539272> .
+ <http://ops.rsc.org/OPS3104260> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C555535> .
+@@ -4425,7 +4407,6 @@
+ <http://ops.rsc.org/OPS1783996> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000089> .
+ <http://ops.rsc.org/OPS340521> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C081039> .
+ <http://ops.rsc.org/OPS1875576> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C013884> .
+-<http://ops.rsc.org/OPS1861025> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -6,7-dihydropyrrolo(3,2-e)-5-methylpyrazolo(1,5-a)pyrimidine-3-carbonitrile.> .
+ <http://ops.rsc.org/OPS3114140> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C063296> .
+ <http://ops.rsc.org/OPS3103842> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C554784> .
+ <http://ops.rsc.org/OPS3108645> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012231> .
+@@ -4534,7 +4515,6 @@
+ <http://ops.rsc.org/OPS1801964> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C087784> .
+ <http://ops.rsc.org/OPS1716623> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C082197> .
+ <http://ops.rsc.org/OPS1564506> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C500071> .
+-<http://ops.rsc.org/OPS2021573> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 93> .
+ <http://ops.rsc.org/OPS639841> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C540344> .
+ <http://ops.rsc.org/OPS3110058> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C018296> .
+ <http://ops.rsc.org/OPS1351896> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012675> .
+@@ -4668,7 +4648,6 @@
+ <http://ops.rsc.org/OPS3109591> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C015887> .
+ <http://ops.rsc.org/OPS991249> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C508810> .
+ <http://ops.rsc.org/OPS3059222> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C523092> .
+-<http://ops.rsc.org/OPS532564> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... (p-bromo-alpha-methyl-alpha-phenylbenzyloxy)-N,N-dimethylethylamine cpd with> .
+ <http://ops.rsc.org/OPS1791843> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C576882> .
+ <http://ops.rsc.org/OPS3114077> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C063815> .
+ <http://ops.rsc.org/OPS3101337> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000595737> .
+@@ -4910,7 +4889,6 @@
+ <http://ops.rsc.org/OPS1863959> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C488414> .
+ <http://ops.rsc.org/OPS3103680> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C552314> .
+ <http://ops.rsc.org/OPS1865764> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C025271> .
+-<http://ops.rsc.org/OPS1416118> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... diethylammonium diethyldithiocarbamate. compd. with N- ethylethanamine (1> .
+ <http://ops.rsc.org/OPS708839> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C494720> .
+ <http://ops.rsc.org/OPS1795266> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C436410> .
+ <http://ops.rsc.org/OPS1037458> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C051307> .
+@@ -5008,7 +4986,6 @@
+ <http://ops.rsc.org/OPS3109728> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C016280> .
+ <http://ops.rsc.org/OPS3096533> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C415444> .
+ <http://ops.rsc.org/OPS3105161> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C570118> .
+-<http://ops.rsc.org/OPS3105160> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... yl)-1-((1R)-1-(2,6- dimethylpyridin-3-yl)-2-(morpholin- 4-yl)-2-oxoethyl)-6-> .
+ <http://ops.rsc.org/OPS1900364> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C470339> .
+ <http://ops.rsc.org/OPS3095331> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C113479> .
+ <http://ops.rsc.org/OPS1765109> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C568690> .
+@@ -5050,7 +5027,6 @@
+ <http://ops.rsc.org/OPS1870100> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C418142> .
+ <http://ops.rsc.org/OPS3101960> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C538977> .
+ <http://ops.rsc.org/OPS3096416> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C405945> .
+-<http://ops.rsc.org/OPS3110854> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... th 3-(aminocarbonyl)-1-beta-D-ribofuranosylpyridinium hydroxide inner saltN-> .
+ <http://ops.rsc.org/OPS3100909> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000592443> .
+ <http://ops.rsc.org/OPS1048897> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C093762> .
+ <http://ops.rsc.org/OPS1870031> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068891> .
+@@ -5168,7 +5144,6 @@
+ <http://ops.rsc.org/OPS3107105> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C001988> .
+ <http://ops.rsc.org/OPS1474571> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C443749> .
+ <http://ops.rsc.org/OPS650467> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C006319> .
+-<http://ops.rsc.org/OPS550723> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 2,6,10,14,18,22,26,30,34,38,42-tetratetracontaundecaenyl hydrogen phosphate)> .
+ <http://ops.rsc.org/OPS3098763> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C500340> .
+ <http://ops.rsc.org/OPS1865379> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C063022> .
+ <http://ops.rsc.org/OPS400225> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C539976> .
+@@ -5216,7 +5191,6 @@
+ <http://ops.rsc.org/OPS1801158> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C024828> .
+ <http://ops.rsc.org/OPS1863101> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D001148> .
+ <http://ops.rsc.org/OPS1577221> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C504346> .
+-<http://ops.rsc.org/OPS3115277> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... hydro-6-methyl-5-((tetrahydro-6-methyl-5-oxo-2H-pyran-2-yl)oxy)-2H-pyran-)))> .
+ <http://ops.rsc.org/OPS3112819> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C058724> .
+ <http://ops.rsc.org/OPS1870977> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C083167> .
+ <http://ops.rsc.org/OPS3096673> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C419869> .
+@@ -5537,7 +5511,6 @@
+ <http://ops.rsc.org/OPS3102384> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C540514> .
+ <http://ops.rsc.org/OPS1676526> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C080219> .
+ <http://ops.rsc.org/OPS3100436> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C530897> .
+-<http://ops.rsc.org/OPS3104799> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 41> .
+ <http://ops.rsc.org/OPS3115456> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C073257> .
+ <http://ops.rsc.org/OPS3065694> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007762> .
+ <http://ops.rsc.org/OPS3101273> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000596755> .
+@@ -6088,7 +6061,6 @@
+ <http://ops.rsc.org/OPS3108724> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C011988> .
+ <http://ops.rsc.org/OPS1484118> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C086690> .
+ <http://ops.rsc.org/OPS1482842> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C049480> .
+-<http://ops.rsc.org/OPS3109353> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... (adenosine-N(6)-yl)ethane-2'(3')-O-L-leucyl derivative. 2'(or 3')-ester with> .
+ <http://ops.rsc.org/OPS3105390> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C573574> .
+ <http://ops.rsc.org/OPS1902831> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C508616> .
+ <http://ops.rsc.org/OPS1866274> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C026101> .
+@@ -6222,7 +6194,6 @@
+ <http://ops.rsc.org/OPS3100319> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C532475> .
+ <http://ops.rsc.org/OPS3105102> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C571254> .
+ <http://ops.rsc.org/OPS1059232> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C090640> .
+-<http://ops.rsc.org/OPS3109642> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ophenyl)-5-methyl-4-isox azolyl)carbonyl)amino)-3,3-dimethyl-7-oxo-4-thia-1-> .
+ <http://ops.rsc.org/OPS3109261> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C014390> .
+ <http://ops.rsc.org/OPS3117575> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C088483> .
+ <http://ops.rsc.org/OPS3108264> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C009714> .
+@@ -6250,7 +6221,6 @@
+ <http://ops.rsc.org/OPS75974> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C573557> .
+ <http://ops.rsc.org/OPS1380509> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C092074> .
+ <http://ops.rsc.org/OPS1867420> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C006100> .
+-<http://ops.rsc.org/OPS3111233> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ucleotide. inner salt adenosine 5'-(trihydrogen diphosphate) 5-5'-ester with> .
+ <http://ops.rsc.org/OPS934123> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C498374> .
+ <http://ops.rsc.org/OPS3117826> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C089494> .
+ <http://ops.rsc.org/OPS3116468> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C079302> .
+@@ -6657,7 +6627,6 @@
+ <http://ops.rsc.org/OPS3113588> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C060743> .
+ <http://ops.rsc.org/OPS3102432> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C543049> .
+ <http://ops.rsc.org/OPS1468545> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C117447> .
+-<http://ops.rsc.org/OPS3108551> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... amethylchroman-2-carboxylic acid. 3,4-dihydro-6-hydroxy-2,5,7,8-tetramethyl-> .
+ <http://ops.rsc.org/OPS1876394> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C522450> .
+ <http://ops.rsc.org/OPS1772261> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C001402> .
+ <http://ops.rsc.org/OPS1868152> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C013817> .
+@@ -6977,7 +6946,6 @@
+ <http://ops.rsc.org/OPS3109464> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C015538> .
+ <http://ops.rsc.org/OPS3100001> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C530089> .
+ <http://ops.rsc.org/OPS1119842> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C530605> .
+-<http://ops.rsc.org/OPS1873721> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... robenzofuran-7-yl)-3-methyl-8-nitro-2,3,4,5-tetrahydro-1H-3-benzazepin-7-ol.> .
+ <http://ops.rsc.org/OPS3095113> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C107654> .
+ <http://ops.rsc.org/OPS3098472> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C487455> .
+ <http://ops.rsc.org/OPS3101355> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000595926> .
+@@ -7006,7 +6974,6 @@
+ <http://ops.rsc.org/OPS3074434> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000590371> .
+ <http://ops.rsc.org/OPS1744740> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C057449> .
+ <http://ops.rsc.org/OPS411375> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C059039> .
+-<http://ops.rsc.org/OPS3112980> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... roxy-3-methoxycyclohexyl)-1-methylethenyl)-14,16-dimethoxy-4,10,12,18-tetram> .
+ <http://ops.rsc.org/OPS276610> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D020367> .
+ <http://ops.rsc.org/OPS1869197> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C092774> .
+ <http://ops.rsc.org/OPS3118262> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C092647> .
+@@ -7227,7 +7194,6 @@
+ <http://ops.rsc.org/OPS3106527> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C583491> .
+ <http://ops.rsc.org/OPS691811> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D000493> .
+ <http://ops.rsc.org/OPS1901485> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C482665> .
+-<http://ops.rsc.org/OPS3107999> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ,15-epoxygeranylgeraniol. 13-(3,3-dimethyloxiranyl)-3,7,11-trimethyl-2,6,10-> .
+ <http://ops.rsc.org/OPS967480> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C498840> .
+ <http://ops.rsc.org/OPS1105338> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C409609> .
+ <http://ops.rsc.org/OPS3115285> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C071157> .
+@@ -7956,7 +7922,6 @@
+ <http://ops.rsc.org/OPS630317> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D000501> .
+ <http://ops.rsc.org/OPS1866203> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C063127> .
+ <http://ops.rsc.org/OPS3114722> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068459> .
+-<http://ops.rsc.org/OPS3107886> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -1,2,3-propanetricarboxylate (1> .
+ <http://ops.rsc.org/OPS3099875> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C526777> .
+ <http://ops.rsc.org/OPS3102911> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C546042> .
+ <http://ops.rsc.org/OPS1863198> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C025211> .
+@@ -8118,7 +8083,6 @@
+ <http://ops.rsc.org/OPS600516> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D011411> .
+ <http://ops.rsc.org/OPS1290837> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C568510> .
+ <http://ops.rsc.org/OPS3100467> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C541190> .
+-<http://ops.rsc.org/OPS3110380> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... pyrrolizin-7-yl)methyl ester (1S-(1 alpha,7(2R*,3S*),7a alpha))-2-hydroxy-2-> .
+ <http://ops.rsc.org/OPS3104458> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C558540> .
+ <http://ops.rsc.org/OPS3096648> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C427444> .
+ <http://ops.rsc.org/OPS3098271> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C483761> .
+@@ -8553,7 +8517,6 @@
+ <http://ops.rsc.org/OPS3108546> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C010738> .
+ <http://ops.rsc.org/OPS3099061> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C504661> .
+ <http://ops.rsc.org/OPS164607> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C577041> .
+-<http://ops.rsc.org/OPS1871503> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... tinyl-2-lactosylhydrazine. 4-pyridinecarboxylic acid hydrazide hydazone with> .
+ <http://ops.rsc.org/OPS3113931> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C063063> .
+ <http://ops.rsc.org/OPS1868953> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C430450> .
+ <http://ops.rsc.org/OPS124434> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C570895> .
+@@ -8690,7 +8653,6 @@
+ <http://ops.rsc.org/OPS587577> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C074085> .
+ <http://ops.rsc.org/OPS986990> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C528495> .
+ <http://ops.rsc.org/OPS3115196> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C072333> .
+-<http://ops.rsc.org/OPS3108185> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... . cyclic (1-5)- disulf ide N-(3-mercapto-1-oxopropyl)-L-tyrosyl-L-isoleucyl-> .
+ <http://ops.rsc.org/OPS1043925> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C542094> .
+ <http://ops.rsc.org/OPS1255283> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C561051> .
+ <http://ops.rsc.org/OPS1352587> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D005905> .
+@@ -8858,7 +8820,6 @@
+ <http://ops.rsc.org/OPS3106034> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C579085> .
+ <http://ops.rsc.org/OPS1230181> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C541996> .
+ <http://ops.rsc.org/OPS78372> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C559481> .
+-<http://ops.rsc.org/OPS1862785> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 4((tetrahydro-1,2,3,4-naphthyl-2)-1'-piperidine-4'-spiro)-5-oxazolidinone-2.> .
+ <http://ops.rsc.org/OPS1336521> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000588684> .
+ <http://ops.rsc.org/OPS489197> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C051231> .
+ <http://ops.rsc.org/OPS3109137> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C014546> .
+@@ -9743,7 +9704,6 @@
+ <http://ops.rsc.org/OPS3105807> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C576502> .
+ <http://ops.rsc.org/OPS990886> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C545109> .
+ <http://ops.rsc.org/OPS3113612> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C060613> .
+-<http://ops.rsc.org/OPS3116075> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... benastatin A. 8,13-dihydro-1,7,9,11-tetrahydroxy-13-dimethyl-8-oxo-3-pentyl-> .
+ <http://ops.rsc.org/OPS3095918> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C117267> .
+ <http://ops.rsc.org/OPS1049614> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C550356> .
+ <http://ops.rsc.org/OPS543778> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C540170> .
+@@ -9765,7 +9725,6 @@
+ <http://ops.rsc.org/OPS3118090> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C093793> .
+ <http://ops.rsc.org/OPS1204913> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C510196> .
+ <http://ops.rsc.org/OPS1292341> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C550155> .
+-<http://ops.rsc.org/OPS3110709> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ,5 alpha,6 alpha,8a beta))-octahydro-3-methyl-8-methylene-5-(1-methylethyl)-> .
+ <http://ops.rsc.org/OPS3115466> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C073245> .
+ <http://ops.rsc.org/OPS3116375> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C078395> .
+ <http://ops.rsc.org/OPS3103772> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C554205> .
+@@ -9866,7 +9825,6 @@
+ <http://ops.rsc.org/OPS3114015> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C063860> .
+ <http://ops.rsc.org/OPS3114868> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068006> .
+ <http://ops.rsc.org/OPS2991491> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C541502> .
+-<http://ops.rsc.org/OPS1874759> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 95> .
+ <http://ops.rsc.org/OPS8739> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C526798> .
+ <http://ops.rsc.org/OPS1878716> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007013> .
+ <http://ops.rsc.org/OPS3015091> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000593389> .
+@@ -10589,7 +10547,6 @@
+ <http://ops.rsc.org/OPS1811024> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C022872> .
+ <http://ops.rsc.org/OPS1871595> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C509140> .
+ <http://ops.rsc.org/OPS3114009> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C064624> .
+-<http://ops.rsc.org/OPS1402769> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... d N,N-diethanolamine (1> .
+ <http://ops.rsc.org/OPS1375637> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C011755> .
+ <http://ops.rsc.org/OPS1898166> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C431551> .
+ <http://ops.rsc.org/OPS1815704> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007180> .
+@@ -10728,7 +10685,6 @@
+ <http://ops.rsc.org/OPS256447> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C486876> .
+ <http://ops.rsc.org/OPS3113550> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C061486> .
+ <http://ops.rsc.org/OPS30863> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C583010> .
+-<http://ops.rsc.org/OPS3110553> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 2-trihydroxycholestan-26-oic acid. (3 alpha,5 beta,7 alpha,12 alpha)-3,7,12-> .
+ <http://ops.rsc.org/OPS3095623> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C115418> .
+ <http://ops.rsc.org/OPS3097505> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C465476> .
+ <http://ops.rsc.org/OPS2140123> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C022138> .
+@@ -11004,7 +10960,6 @@
+ <http://ops.rsc.org/OPS1865109> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C087258> .
+ <http://ops.rsc.org/OPS3106153> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C579144> .
+ <http://ops.rsc.org/OPS3108931> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C013477> .
+-<http://ops.rsc.org/OPS3107816> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/...  2-benzyl-1,4-dimethyl-5-hydroxymethyl-2,5-epi-trithia-3,6-diketopiperazine.> .
+ <http://ops.rsc.org/OPS3097550> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C465294> .
+ <http://ops.rsc.org/OPS3099184> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C507729> .
+ <http://ops.rsc.org/OPS1860963> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C059044> .
+@@ -11582,7 +11537,6 @@
+ <http://ops.rsc.org/OPS3111240> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C025395> .
+ <http://ops.rsc.org/OPS1895600> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C121077> .
+ <http://ops.rsc.org/OPS3099053> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C504170> .
+-<http://ops.rsc.org/OPS1435077> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... carboxylic acid hydrazide mixture with 2-propyl-4-pyridinecarbothioamide and> .
+ <http://ops.rsc.org/OPS87032> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D013974> .
+ <http://ops.rsc.org/OPS3095482> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C114210> .
+ <http://ops.rsc.org/OPS1897853> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C487752> .
+@@ -11863,7 +11817,6 @@
+ <http://ops.rsc.org/OPS1865355> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C522458> .
+ <http://ops.rsc.org/OPS1901460> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C434771> .
+ <http://ops.rsc.org/OPS1895171> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C529337> .
+-<http://ops.rsc.org/OPS3108958> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... thyl-2,3-dihydrobenzofuranyl-7-N-dimethoxyphosphinothioyl-N-methylcarbamate.> .
+ <http://ops.rsc.org/OPS1901610> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C442709> .
+ <http://ops.rsc.org/OPS1510268> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C446060> .
+ <http://ops.rsc.org/OPS388060> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C090203> .
+@@ -11887,7 +11840,6 @@
+ <http://ops.rsc.org/OPS1899859> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C474873> .
+ <http://ops.rsc.org/OPS3107618> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C005773> .
+ <http://ops.rsc.org/OPS118689> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C005897> .
+-<http://ops.rsc.org/OPS3110722> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... )-3,3',4,4'-tetrahydro-9,9'10,10'-tetrahydroxy-7,7'-dimethoxy-3,3'-dimethyl-> .
+ <http://ops.rsc.org/OPS1865567> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C522650> .
+ <http://ops.rsc.org/OPS3116400> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C079651> .
+ <http://ops.rsc.org/OPS1636281> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C523453> .
+@@ -11902,7 +11854,6 @@
+ <http://ops.rsc.org/OPS2888231> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C554777> .
+ <http://ops.rsc.org/OPS3100616> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000589137> .
+ <http://ops.rsc.org/OPS9334> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C535248> .
+-<http://ops.rsc.org/OPS3107953> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... (1)-3-(5-methylisoxazolyl)-N(4)-(7,8-dihydro-6-pterinylmethyl)sulfanilamide.> .
+ <http://ops.rsc.org/OPS3110592> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C021230> .
+ <http://ops.rsc.org/OPS1063792> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C066918> .
+ <http://ops.rsc.org/OPS1812031> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068186> .
+@@ -12018,7 +11969,6 @@
+ <http://ops.rsc.org/OPS3110996> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C024749> .
+ <http://ops.rsc.org/OPS3101498> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000595652> .
+ <http://ops.rsc.org/OPS3117055> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C083076> .
+-<http://ops.rsc.org/OPS3113303> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 21833. 1-(2-(1,1-dimethylethyl)-5-methyl-6-benzothiazolyl)-2-methylhydrazide> .
+ <http://ops.rsc.org/OPS3103366> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C549016> .
+ <http://ops.rsc.org/OPS1567232> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C494341> .
+ <http://ops.rsc.org/OPS1876939> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C423612> .
+@@ -12080,7 +12030,6 @@
+ <http://ops.rsc.org/OPS1436225> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C074917> .
+ <http://ops.rsc.org/OPS957946> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C581970> .
+ <http://ops.rsc.org/OPS1504799> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C446057> .
+-<http://ops.rsc.org/OPS3110399> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... '-hydroxy-6,7-benzomorphan. (-)-11-ethyl-1,2,3,4,5,6-hexahydro-3,6-dimethyl-> .
+ <http://ops.rsc.org/OPS1511834> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C017814> .
+ <http://ops.rsc.org/OPS3102812> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C546199> .
+ <http://ops.rsc.org/OPS1532518> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C072105> .
+@@ -12426,7 +12375,6 @@
+ <http://ops.rsc.org/OPS671359> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C474823> .
+ <http://ops.rsc.org/OPS1871564> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C020219> .
+ <http://ops.rsc.org/OPS3114802> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C067248> .
+-<http://ops.rsc.org/OPS3107417> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -hydroxytetrahydrocortisone. 1 beta,3 alpha,17 alpha,21-tetrahydroxy-5 beta-> .
+ <http://ops.rsc.org/OPS3116790> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C081970> .
+ <http://ops.rsc.org/OPS1349316> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C057359> .
+ <http://ops.rsc.org/OPS3111513> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C049344> .
+@@ -12503,7 +12451,6 @@
+ <http://ops.rsc.org/OPS1814602> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C025234> .
+ <http://ops.rsc.org/OPS1894795> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C525896> .
+ <http://ops.rsc.org/OPS3099095> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C506828> .
+-<http://ops.rsc.org/OPS3100583> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... paraflutizide. 1,1-dioxide 6-chloro-3-(p-fluorobenzyl)-3,4-dihydro-2H-1,2,4-> .
+ <http://ops.rsc.org/OPS113210> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012902> .
+ <http://ops.rsc.org/OPS1864569> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C023815> .
+ <http://ops.rsc.org/OPS3108211> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C008653> .
+@@ -12629,7 +12576,6 @@
+ <http://ops.rsc.org/OPS3107440> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C003958> .
+ <http://ops.rsc.org/OPS1370892> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C413735> .
+ <http://ops.rsc.org/OPS1862105> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012945> .
+-<http://ops.rsc.org/OPS1415345> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 408> .
+ <http://ops.rsc.org/OPS632719> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C060298> .
+ <http://ops.rsc.org/OPS534651> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D008376> .
+ <http://ops.rsc.org/OPS1078140> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C539727> .
+@@ -12676,7 +12622,6 @@
+ <http://ops.rsc.org/OPS3095305> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C111035> .
+ <http://ops.rsc.org/OPS3096867> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C431044> .
+ <http://ops.rsc.org/OPS1866561> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C505634> .
+-<http://ops.rsc.org/OPS3106810> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 40> .
+ <http://ops.rsc.org/OPS3114913> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068770> .
+ <http://ops.rsc.org/OPS3097500> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000588748> .
+ <http://ops.rsc.org/OPS1618673> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007956> .
+@@ -12711,7 +12656,6 @@
+ <http://ops.rsc.org/OPS3115550> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C072979> .
+ <http://ops.rsc.org/OPS1216346> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C544483> .
+ <http://ops.rsc.org/OPS3106543> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000598735> .
+-<http://ops.rsc.org/OPS3110641> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... o)-alpha-L-lyxo-hexopyran osyl)oxy)-2-ethyl-1,2,3,4,6,11-hexahydro-2,5,7,10-> .
+ <http://ops.rsc.org/OPS1170706> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C539997> .
+ <http://ops.rsc.org/OPS1054999> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C472791> .
+ <http://ops.rsc.org/OPS3114928> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068780> .
+@@ -12870,7 +12814,6 @@
+ <http://ops.rsc.org/OPS608008> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C507625> .
+ <http://ops.rsc.org/OPS3106444> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C582749> .
+ <http://ops.rsc.org/OPS1900836> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C114190> .
+-<http://ops.rsc.org/OPS3116687> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 1> .
+ <http://ops.rsc.org/OPS3113793> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C062371> .
+ <http://ops.rsc.org/OPS3094880> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C106393> .
+ <http://ops.rsc.org/OPS1172875> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D005027> .
+@@ -12921,7 +12864,6 @@
+ <http://ops.rsc.org/OPS3104906> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C570007> .
+ <http://ops.rsc.org/OPS3114052> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C064116> .
+ <http://ops.rsc.org/OPS1896087> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C403605> .
+-<http://ops.rsc.org/OPS1759924> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... luorophenyl)-3-methylpiperidin-4-ylideneamino)-2-thioxoimidazolidin-4-one on> .
+ <http://ops.rsc.org/OPS3095177> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C108100> .
+ <http://ops.rsc.org/OPS1864150> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C069825> .
+ <http://ops.rsc.org/OPS3109447> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C015598> .
+@@ -13326,7 +13268,6 @@
+ <http://ops.rsc.org/OPS3102174> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C541150> .
+ <http://ops.rsc.org/OPS1901182> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C482280> .
+ <http://ops.rsc.org/OPS3103391> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C549184> .
+-<http://ops.rsc.org/OPS3100521> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... lpha-methylandrosta-1,4-diene. 4-chloro-17 alpha-methyl-17 beta-hydroxy-1,4-> .
+ <http://ops.rsc.org/OPS3101791> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000597050> .
+ <http://ops.rsc.org/OPS3101516> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000594959> .
+ <http://ops.rsc.org/OPS2997461> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C019174> .
+@@ -13713,7 +13654,6 @@
+ <http://ops.rsc.org/OPS1874094> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C001047> .
+ <http://ops.rsc.org/OPS3112792> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C056522> .
+ <http://ops.rsc.org/OPS3109072> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C013725> .
+-<http://ops.rsc.org/OPS3098014> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 2-cyclohexy-6-hydroxybenzo(b)thien-3-yl)(4-(2-(1- piperidinyl)ethoxy)phenyl)> .
+ <http://ops.rsc.org/OPS1545583> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C480612> .
+ <http://ops.rsc.org/OPS3115250> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C071209> .
+ <http://ops.rsc.org/OPS1649911> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C017357> .
+@@ -13941,7 +13881,6 @@
+ <http://ops.rsc.org/OPS3110141> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C019057> .
+ <http://ops.rsc.org/OPS3095957> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C118214> .
+ <http://ops.rsc.org/OPS3111343> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C025663> .
+-<http://ops.rsc.org/OPS3106811> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... esoxyoxamniquine. 1,2,3,4-tetra- hydro-6-methyl-N-(1-methylethyl)-7-nitro-2-> .
+ <http://ops.rsc.org/OPS3096828> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C425383> .
+ <http://ops.rsc.org/OPS1575334> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C413183> .
+ <http://ops.rsc.org/OPS1048054> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000589482> .
+@@ -14165,7 +14104,6 @@
+ <http://ops.rsc.org/OPS3116763> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C081889> .
+ <http://ops.rsc.org/OPS529011> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D008656> .
+ <http://ops.rsc.org/OPS3113000> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C057567> .
+-<http://ops.rsc.org/OPS3107042> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/...  1-(2-(4-(3-(2-chloro-10H-phenothiazin-10-yl)propyl)-1-piperazinyl)ethyl)-3-> .
+ <http://ops.rsc.org/OPS1598025> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C504317> .
+ <http://ops.rsc.org/OPS3102473> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C542972> .
+ <http://ops.rsc.org/OPS3110784> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C023696> .
+@@ -14306,7 +14244,6 @@
+ <http://ops.rsc.org/OPS3107012> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C001659> .
+ <http://ops.rsc.org/OPS1866823> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C503276> .
+ <http://ops.rsc.org/OPS103982> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C003612> .
+-<http://ops.rsc.org/OPS103839> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -methylsulfonyloxyethyl)-2-methyl-5-nitroimidazole. methanesulfonate (ester)> .
+ <http://ops.rsc.org/OPS321271> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C091423> .
+ <http://ops.rsc.org/OPS3115347> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C070695> .
+ <http://ops.rsc.org/OPS3105383> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C572262> .
+@@ -14374,7 +14311,6 @@
+ <http://ops.rsc.org/OPS1129583> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D014265> .
+ <http://ops.rsc.org/OPS1876742> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C055157> .
+ <http://ops.rsc.org/OPS3101198> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000593295> .
+-<http://ops.rsc.org/OPS3109226> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... beta-carboxyethyl)-3,3-dimethyl-6'-nitrospiro(indoline- 2,2'-2H-benzopyran).> .
+ <http://ops.rsc.org/OPS3109877> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C018165> .
+ <http://ops.rsc.org/OPS1508683> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C116323> .
+ <http://ops.rsc.org/OPS1866504> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C473468> .
+@@ -14554,7 +14490,6 @@
+ <http://ops.rsc.org/OPS3111825> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C051183> .
+ <http://ops.rsc.org/OPS1099576> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C543382> .
+ <http://ops.rsc.org/OPS1346582> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C051263> .
+-<http://ops.rsc.org/OPS3111050> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... (1E,3S*),3 alpha))-9-(3-hydroxy-2-(3-hydroxy-1-octenyl)-5-oxocyclopentyl)-7-> .
+ <http://ops.rsc.org/OPS3108677> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012067> .
+ <http://ops.rsc.org/OPS527515> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C568956> .
+ <http://ops.rsc.org/OPS3097720> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C470887> .
+@@ -15090,7 +15025,6 @@
+ <http://ops.rsc.org/OPS271946> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D014236> .
+ <http://ops.rsc.org/OPS3113471> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C061657> .
+ <http://ops.rsc.org/OPS3105906> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C576627> .
+-<http://ops.rsc.org/OPS3108279> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... cidin 3',5'-cyclic phosphate. 7-(3,5-O-phosphinico-beta-D-ribofuranosyl)-7H-> .
+ <http://ops.rsc.org/OPS68340> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C570407> .
+ <http://ops.rsc.org/OPS1087688> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C570237> .
+ <http://ops.rsc.org/OPS1135179> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C070200> .
+@@ -15447,7 +15381,6 @@
+ <http://ops.rsc.org/OPS1867234> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C006221> .
+ <http://ops.rsc.org/OPS3111545> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C049321> .
+ <http://ops.rsc.org/OPS2853114> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C495460> .
+-<http://ops.rsc.org/OPS788965> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... (6-((3-methoxyestra-1,3,5(10)-trien-17-yl)amino)hexyl)-1H-pyrrole-2,5-dione.> .
+ <http://ops.rsc.org/OPS1900382> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C054539> .
+ <http://ops.rsc.org/OPS1330568> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C552764> .
+ <http://ops.rsc.org/OPS3095497> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C115273> .
+@@ -15497,7 +15430,6 @@
+ <http://ops.rsc.org/OPS3113340> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C059348> .
+ <http://ops.rsc.org/OPS3114601> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068333> .
+ <http://ops.rsc.org/OPS1797275> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C407028> .
+-<http://ops.rsc.org/OPS3108987> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... bis(alpha-bromoacetyl-epsilon-2,4-dinitrophenyllysylproline)ethylenediamine.> .
+ <http://ops.rsc.org/OPS3114829> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C067957> .
+ <http://ops.rsc.org/OPS834370> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C580905> .
+ <http://ops.rsc.org/OPS3115831> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C075267> .
+@@ -15511,7 +15443,6 @@
+ <http://ops.rsc.org/OPS3105522> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C575344> .
+ <http://ops.rsc.org/OPS1862007> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C013248> .
+ <http://ops.rsc.org/OPS1877522> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C501187> .
+-<http://ops.rsc.org/OPS384239> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 1,2,3,4 tetrahydro-2-(3-mercapto-1-oxopropyl)-1-isoquinolinecarboxylic acid.> .
+ <http://ops.rsc.org/OPS1092268> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C113215> .
+ <http://ops.rsc.org/OPS3118230> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C092020> .
+ <http://ops.rsc.org/OPS3094794> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D008695> .
+@@ -15888,7 +15819,6 @@
+ <http://ops.rsc.org/OPS315990> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C572610> .
+ <http://ops.rsc.org/OPS3009716> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000595197> .
+ <http://ops.rsc.org/OPS3103187> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C548302> .
+-<http://ops.rsc.org/OPS430205> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... O-(2,2,2-trichloro-1-hydroxyethyl)-alpha-D-glucopyranose 1 to 4 polymer with> .
+ <http://ops.rsc.org/OPS591610> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C582876> .
+ <http://ops.rsc.org/OPS3099200> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C507003> .
+ <http://ops.rsc.org/OPS994878> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D003667> .
+@@ -16003,7 +15933,6 @@
+ <http://ops.rsc.org/OPS1674873> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000590511> .
+ <http://ops.rsc.org/OPS3105725> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C576031> .
+ <http://ops.rsc.org/OPS1901853> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C478088> .
+-<http://ops.rsc.org/OPS1893933> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... loro-6-((sulfophenyl)amino)- 1,3,5-triazin-2-yl)amino)-3-sulfophenyl)amino)-> .
+ <http://ops.rsc.org/OPS1358387> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D015244> .
+ <http://ops.rsc.org/OPS3100681> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000589130> .
+ <http://ops.rsc.org/OPS3105415> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C572877> .
+@@ -16247,7 +16176,6 @@
+ <http://ops.rsc.org/OPS534088> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D005480> .
+ <http://ops.rsc.org/OPS1744495> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C084477> .
+ <http://ops.rsc.org/OPS1871297> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C013945> .
+-<http://ops.rsc.org/OPS1861981> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... nyl-2-acetamido-2-deoxy-6-O-beta-D- galactopyranosyl-beta-D-glucopyranoside.> .
+ <http://ops.rsc.org/OPS634064> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C481782> .
+ <http://ops.rsc.org/OPS3105904> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C577340> .
+ <http://ops.rsc.org/OPS1201402> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C543314> .
+@@ -16414,7 +16342,6 @@
+ <http://ops.rsc.org/OPS3114827> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068413> .
+ <http://ops.rsc.org/OPS3113908> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C062172> .
+ <http://ops.rsc.org/OPS3113052> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C057171> .
+-<http://ops.rsc.org/OPS3107158> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... a alpha,8 beta,9a alpha,9b beta))-decahydro-3,8-dihydroxy-3-(hydroxymethyl)-> .
+ <http://ops.rsc.org/OPS3113500> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C060838> .
+ <http://ops.rsc.org/OPS1897877> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C525582> .
+ <http://ops.rsc.org/OPS3101476> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000596377> .
+@@ -16988,7 +16915,6 @@
+ <http://ops.rsc.org/OPS297378> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C079342> .
+ <http://ops.rsc.org/OPS1107778> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C540742> .
+ <http://ops.rsc.org/OPS1047273> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C479812> .
+-<http://ops.rsc.org/OPS1391170> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... phenethyl)carboxamido)phenylalanyl-tetrahydroisoquinoline-3-carboxylic acid-> .
+ <http://ops.rsc.org/OPS1900257> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C090286> .
+ <http://ops.rsc.org/OPS3102805> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C545745> .
+ <http://ops.rsc.org/OPS3103336> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C549913> .
+@@ -17024,7 +16950,6 @@
+ <http://ops.rsc.org/OPS1896175> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C472226> .
+ <http://ops.rsc.org/OPS3103045> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C547761> .
+ <http://ops.rsc.org/OPS3108065> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007467> .
+-<http://ops.rsc.org/OPS3110409> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... olidinecarboxylate. monoester with 5-hydroxy-6-methyl-3,4-pyridinedimethanol> .
+ <http://ops.rsc.org/OPS643987> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C073522> .
+ <http://ops.rsc.org/OPS3096190> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C400522> .
+ <http://ops.rsc.org/OPS3108734> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012337> .
+@@ -17106,7 +17031,6 @@
+ <http://ops.rsc.org/OPS1568797> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C534871> .
+ <http://ops.rsc.org/OPS3109864> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C018170> .
+ <http://ops.rsc.org/OPS3114475> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C065947> .
+-<http://ops.rsc.org/OPS3107307> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... rboxy-5-hydroxy-2H-1,4-benzo thiazin-2-ylidene)-3,4-dihydro-5-hydroxy-3-oxo-> .
+ <http://ops.rsc.org/OPS3114606> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C067178> .
+ <http://ops.rsc.org/OPS3108698> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012099> .
+ <http://ops.rsc.org/OPS365739> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C058036> .
+@@ -17121,7 +17045,6 @@
+ <http://ops.rsc.org/OPS1865325> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C011171> .
+ <http://ops.rsc.org/OPS3117772> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C091144> .
+ <http://ops.rsc.org/OPS1901252> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C430454> .
+-<http://ops.rsc.org/OPS3094820> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 800> .
+ <http://ops.rsc.org/OPS3115964> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C074756> .
+ <http://ops.rsc.org/OPS2858633> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C532379> .
+ <http://ops.rsc.org/OPS231993> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C505455> .
+@@ -17142,7 +17065,6 @@
+ <http://ops.rsc.org/OPS1511082> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068119> .
+ <http://ops.rsc.org/OPS3102184> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C540557> .
+ <http://ops.rsc.org/OPS110698> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D001462> .
+-<http://ops.rsc.org/OPS3110816> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... imethyl-3'-isopropyl-L-thyronine. O-(4-hydroxy-3-(1-methylethyl)phenyl)-3,5-> .
+ <http://ops.rsc.org/OPS1896420> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C054787> .
+ <http://ops.rsc.org/OPS3112431> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C053502> .
+ <http://ops.rsc.org/OPS1034461> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C538869> .
+@@ -17198,7 +17120,6 @@
+ <http://ops.rsc.org/OPS3113734> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C062823> .
+ <http://ops.rsc.org/OPS1242583> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C545535> .
+ <http://ops.rsc.org/OPS3103288> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C550503> .
+-<http://ops.rsc.org/OPS747250> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 5-dihydro-4-methyl-5-oxo-2H-pyrrol-2-ylidene)methyl-2,4-dimethyl-1H-pyrrole-> .
+ <http://ops.rsc.org/OPS381238> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C559484> .
+ <http://ops.rsc.org/OPS1742803> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C413348> .
+ <http://ops.rsc.org/OPS1398000> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C107635> .
+@@ -17296,7 +17217,6 @@
+ <http://ops.rsc.org/OPS1579128> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C506291> .
+ <http://ops.rsc.org/OPS1868160> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C502067> .
+ <http://ops.rsc.org/OPS3107815> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007298> .
+-<http://ops.rsc.org/OPS3110426> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... daicin (eudesmane naphthofuran). 3a,5,5a,9,9a,9b-hexahydro-9-hydroxy-3,5a,9-> .
+ <http://ops.rsc.org/OPS3112865> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C057934> .
+ <http://ops.rsc.org/OPS3116969> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C082477> .
+ <http://ops.rsc.org/OPS1466128> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C106512> .
+@@ -17427,7 +17347,6 @@
+ <http://ops.rsc.org/OPS3106650> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000597918> .
+ <http://ops.rsc.org/OPS1865711> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012132> .
+ <http://ops.rsc.org/OPS1863844> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C074201> .
+-<http://ops.rsc.org/OPS3111195> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 5407. 8-(3-((1,1-dimethylethyl)amino)-2-hydroxypropoxy)-1,2,3,4-tetrahydro-,> .
+ <http://ops.rsc.org/OPS3112692> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C056156> .
+ <http://ops.rsc.org/OPS3102407> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C543088> .
+ <http://ops.rsc.org/OPS3108621> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C012285> .
+@@ -17524,7 +17443,6 @@
+ <http://ops.rsc.org/OPS103642> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C008192> .
+ <http://ops.rsc.org/OPS3095919> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C118879> .
+ <http://ops.rsc.org/OPS3102261> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C541580> .
+-<http://ops.rsc.org/OPS3110594> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... furylidene-tetra-O-methylsorbitol. 2,4-O-(2-furanylmethylene)-1,3,5,6-tetra-> .
+ <http://ops.rsc.org/OPS1658015> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C001594> .
+ <http://ops.rsc.org/OPS3113044> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C058194> .
+ <http://ops.rsc.org/OPS3099669> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C525988> .
+@@ -17554,7 +17472,6 @@
+ <http://ops.rsc.org/OPS3041661> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C011617> .
+ <http://ops.rsc.org/OPS174043> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000591015> .
+ <http://ops.rsc.org/OPS3095928> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C117331> .
+-<http://ops.rsc.org/OPS3111221> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... lin-benzo-5'-adenosyl)-P(5)-(5'-adenosyl)pentaphosphate. P''''-5'-ester with> .
+ <http://ops.rsc.org/OPS1880224> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C006513> .
+ <http://ops.rsc.org/OPS174980> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D004290> .
+ <http://ops.rsc.org/OPS1384953> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C063787> .
+@@ -17683,7 +17600,6 @@
+ <http://ops.rsc.org/OPS3111740> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C051209> .
+ <http://ops.rsc.org/OPS3106781> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C583540> .
+ <http://ops.rsc.org/OPS3105925> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C578073> .
+-<http://ops.rsc.org/OPS1463899> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -4-oxo-2,5-cyclohexadien-1- ylidene)(2,6-dichlorophenyl)methyl)-2-hydroxy-3-> .
+ <http://ops.rsc.org/OPS3116029> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C076762> .
+ <http://ops.rsc.org/OPS1366405> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C470650> .
+ <http://ops.rsc.org/OPS3103525> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C552586> .
+@@ -17751,7 +17667,6 @@
+ <http://ops.rsc.org/OPS773947> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C571513> .
+ <http://ops.rsc.org/OPS3105977> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C577642> .
+ <http://ops.rsc.org/OPS3109941> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C017091> .
+-<http://ops.rsc.org/OPS3106851> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... lta(9)-tetrahydrocannabinol. 6a,7,8,10a-tetrahydro-1-hydroxy-6,6-dimethyl-3-> .
+ <http://ops.rsc.org/OPS3097068> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C435315> .
+ <http://ops.rsc.org/OPS1408600> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C022202> .
+ <http://ops.rsc.org/OPS1256392> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C569175> .
+@@ -17901,7 +17816,6 @@
+ <http://ops.rsc.org/OPS756759> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C053876> .
+ <http://ops.rsc.org/OPS1870904> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C480700> .
+ <http://ops.rsc.org/OPS781423> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D003561> .
+-<http://ops.rsc.org/OPS1870300> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/...  N-(2-(bis(4-fluorophenyl)methylthio)ethyl)-N-methyl-N-(2-phenyl)ethylamine.> .
+ <http://ops.rsc.org/OPS1863357> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C002271> .
+ <http://ops.rsc.org/OPS3114292> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C065547> .
+ <http://ops.rsc.org/OPS1775901> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C441467> .
+@@ -18815,7 +18729,6 @@
+ <http://ops.rsc.org/OPS1901388> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C435604> .
+ <http://ops.rsc.org/OPS1587260> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C539709> .
+ <http://ops.rsc.org/OPS765665> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C522379> .
+-<http://ops.rsc.org/OPS1873024> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -trimethyldihydrouric acid. 3,7,8,9-tetrahydro-8-hydroxy-1,3,7-trimethyl-1H-> .
+ <http://ops.rsc.org/OPS3115887> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C076130> .
+ <http://ops.rsc.org/OPS3104632> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C561449> .
+ <http://ops.rsc.org/OPS874711> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D010396> .
+@@ -19298,7 +19211,6 @@
+ <http://ops.rsc.org/OPS91473> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C004857> .
+ <http://ops.rsc.org/OPS619647> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C020804> .
+ <http://ops.rsc.org/OPS3114391> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C066146> .
+-<http://ops.rsc.org/OPS3109392> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... sine-N(6)-yl)ethane-2'(3')-O-L-phenylalanyl derivative. 2'(or 3')-ester with> .
+ <http://ops.rsc.org/OPS3105847> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C577159> .
+ <http://ops.rsc.org/OPS3107397> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C004664> .
+ <http://ops.rsc.org/OPS1867114> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C114558> .
+@@ -19377,7 +19289,6 @@
+ <http://ops.rsc.org/OPS1894292> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C055845> .
+ <http://ops.rsc.org/OPS2841213> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000589305> .
+ <http://ops.rsc.org/OPS2955710> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C559648> .
+-<http://ops.rsc.org/OPS3108466> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ydroxybenzamidealpha-hydroxy-Benzeneacetic acid phenylmethyl estermixt. with> .
+ <http://ops.rsc.org/OPS3095890> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C118243> .
+ <http://ops.rsc.org/OPS3106466> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C582134> .
+ <http://ops.rsc.org/OPS3045487> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C015864> .
+@@ -19528,7 +19439,6 @@
+ <http://ops.rsc.org/OPS3116160> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C076359> .
+ <http://ops.rsc.org/OPS3104005> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C557091> .
+ <http://ops.rsc.org/OPS1881585> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C560583> .
+-<http://ops.rsc.org/OPS1354557> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -hydroxyphenylhydrazino)uracil. 6-(2-(4-hydroxyphenyl)hydrazino)-2,4(1H,3H)-> .
+ <http://ops.rsc.org/OPS3097088> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C439294> .
+ <http://ops.rsc.org/OPS3116828> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C080711> .
+ <http://ops.rsc.org/OPS512270> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C505403> .
+@@ -19647,7 +19557,6 @@
+ <http://ops.rsc.org/OPS948066> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C074681> .
+ <http://ops.rsc.org/OPS3095254> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C113251> .
+ <http://ops.rsc.org/OPS1551357> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C500059> .
+-<http://ops.rsc.org/OPS1875126> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 8-dimethoxy-2-(2-hydroxyethyl)amino-3-hydroxy-1,2,3,4-tetrahydronaphthalene.> .
+ <http://ops.rsc.org/OPS1898756> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C469330> .
+ <http://ops.rsc.org/OPS1093221> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C576224> .
+ <http://ops.rsc.org/OPS1874119> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000923> .
+@@ -19655,7 +19564,6 @@
+ <http://ops.rsc.org/OPS117327> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C573816> .
+ <http://ops.rsc.org/OPS1434003> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C083310> .
+ <http://ops.rsc.org/OPS3117415> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C085948> .
+-<http://ops.rsc.org/OPS3096841> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... to-1-oxo-4-(3,4,4- trimethyl-2,5-dioxo-1-imidazolidinyl)butyl)-L-leucyl-N,3-> .
+ <http://ops.rsc.org/OPS1546636> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C009475> .
+ <http://ops.rsc.org/OPS1824602> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C023595> .
+ <http://ops.rsc.org/OPS1130098> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000592838> .
+@@ -19766,7 +19674,6 @@
+ <http://ops.rsc.org/OPS950488> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C017219> .
+ <http://ops.rsc.org/OPS932200> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C014233> .
+ <http://ops.rsc.org/OPS3102392> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C541179> .
+-<http://ops.rsc.org/OPS1864504> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 3> .
+ <http://ops.rsc.org/OPS3109512> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C014861> .
+ <http://ops.rsc.org/OPS3114278> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C064236> .
+ <http://ops.rsc.org/OPS1566401> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C571255> .
+@@ -19978,7 +19885,6 @@
+ <http://ops.rsc.org/OPS1526004> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007971> .
+ <http://ops.rsc.org/OPS3104521> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C558460> .
+ <http://ops.rsc.org/OPS1875521> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C078989> .
+-<http://ops.rsc.org/OPS1093646> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... orazamide. 1,2,3,6-tetrahydro-2,6-dioxo-4-pyrimidinecarboxylic acid cpd with> .
+ <http://ops.rsc.org/OPS3095992> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C121136> .
+ <http://ops.rsc.org/OPS52615> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D008727> .
+ <http://ops.rsc.org/OPS3107698> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C006938> .
+@@ -20128,7 +20034,6 @@
+ <http://ops.rsc.org/OPS3110955> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C024325> .
+ <http://ops.rsc.org/OPS1402539> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C477544> .
+ <http://ops.rsc.org/OPS1416681> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C018919> .
+-<http://ops.rsc.org/OPS3108278> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ohydrochloride N-(5-bromoselenophene-2-yl)-N',N'-dimethyl-N-2-pyridinyl-1,2-> .
+ <http://ops.rsc.org/OPS3101432> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000596489> .
+ <http://ops.rsc.org/OPS3107971> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C008044> .
+ <http://ops.rsc.org/OPS3111941> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C052958> .
+@@ -20275,7 +20180,6 @@
+ <http://ops.rsc.org/OPS3103563> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C551080> .
+ <http://ops.rsc.org/OPS1570721> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C504932> .
+ <http://ops.rsc.org/OPS3110301> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C020521> .
+-<http://ops.rsc.org/OPS3110299> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... but-2'-enyl)barbituric acid. 5-ethyl-5-(3-methyl-2-butenyl)-2,4,6(1H,3H,5H)-> .
+ <http://ops.rsc.org/OPS3115192> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C072540> .
+ <http://ops.rsc.org/OPS3110480> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C021159> .
+ <http://ops.rsc.org/OPS3096506> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C413769> .
+@@ -20503,7 +20407,6 @@
+ <http://ops.rsc.org/OPS1403668> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C409867> .
+ <http://ops.rsc.org/OPS1900835> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C500281> .
+ <http://ops.rsc.org/OPS3096933> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C431269> .
+-<http://ops.rsc.org/OPS3108176> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... yltetramic acid. 3-acetyl-1,5- dihydro-4-hydroxy-5-(1H-indol-3-ylmethyl)-2H-> .
+ <http://ops.rsc.org/OPS1863230> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C429843> .
+ <http://ops.rsc.org/OPS3099069> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C507891> .
+ <http://ops.rsc.org/OPS1555647> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007997> .
+@@ -20577,7 +20480,6 @@
+ <http://ops.rsc.org/OPS3105450> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C573161> .
+ <http://ops.rsc.org/OPS3105452> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C573962> .
+ <http://ops.rsc.org/OPS3115504> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C073106> .
+-<http://ops.rsc.org/OPS3107746> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 01> .
+ <http://ops.rsc.org/OPS3111603> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C049575> .
+ <http://ops.rsc.org/OPS3100997> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000593771> .
+ <http://ops.rsc.org/OPS1376997> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C118223> .
+@@ -20630,7 +20532,6 @@
+ <http://ops.rsc.org/OPS3114899> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C069518> .
+ <http://ops.rsc.org/OPS3117957> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C090511> .
+ <http://ops.rsc.org/OPS3114228> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C064477> .
+-<http://ops.rsc.org/OPS1864556> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 330> .
+ <http://ops.rsc.org/OPS1351660> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D005641> .
+ <http://ops.rsc.org/OPS1335198> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C064160> .
+ <http://ops.rsc.org/OPS110918> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C005357> .
+@@ -20794,7 +20695,6 @@
+ <http://ops.rsc.org/OPS3118118> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C092013> .
+ <http://ops.rsc.org/OPS3106170> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C579181> .
+ <http://ops.rsc.org/OPS3099624> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C525777> .
+-<http://ops.rsc.org/OPS3110577> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ,7 beta))-3-(2-(2,4-dinitrophenyl)ethenyl)-8-oxo-7-((2-thienylacetyl)amino)-> .
+ <http://ops.rsc.org/OPS1880426> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C059859> .
+ <http://ops.rsc.org/OPS3100228> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C530962> .
+ <http://ops.rsc.org/OPS1734418> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D010418> .
+@@ -21520,7 +21420,6 @@
+ <http://ops.rsc.org/OPS3116933> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C083225> .
+ <http://ops.rsc.org/OPS1115130> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C013185> .
+ <http://ops.rsc.org/OPS3103307> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C550783> .
+-<http://ops.rsc.org/OPS1679177> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... carboxy-5,7-dichloro-4-phenylaminocarbonylamino-1,2,3,4-tetrahydroquinoline.> .
+ <http://ops.rsc.org/OPS3111273> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C025788> .
+ <http://ops.rsc.org/OPS1179618> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C407512> .
+ <http://ops.rsc.org/OPS1136109> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007540> .
+@@ -21623,7 +21522,6 @@
+ <http://ops.rsc.org/OPS1203296> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C500530> .
+ <http://ops.rsc.org/OPS1898894> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C463240> .
+ <http://ops.rsc.org/OPS1870776> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C405222> .
+-<http://ops.rsc.org/OPS1816664> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... (1,3-dihydro-4-hydroxy-6-methoxy-7-methyl-3-oxo-5-isobenzofuranyl)-4-methyl--> .
+ <http://ops.rsc.org/OPS3104883> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C568111> .
+ <http://ops.rsc.org/OPS3097255> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C454280> .
+ <http://ops.rsc.org/OPS651248> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000123> .
+@@ -21686,7 +21584,6 @@
+ <http://ops.rsc.org/OPS3097471> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C463501> .
+ <http://ops.rsc.org/OPS3103365> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C549090> .
+ <http://ops.rsc.org/OPS1871252> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C015220> .
+-<http://ops.rsc.org/OPS3110537> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/...  (((4-(1,4,5,6R-trans-tetrahydro-2- pyrimidinyl)phenyl)acetyl)amino)-5-thia-> .
+ <http://ops.rsc.org/OPS3106215> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C579552> .
+ <http://ops.rsc.org/OPS464396> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D020372> .
+ <http://ops.rsc.org/OPS190566> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C017861> .
+@@ -21838,7 +21735,6 @@
+ <http://ops.rsc.org/OPS3116786> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C082038> .
+ <http://ops.rsc.org/OPS3112311> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C055078> .
+ <http://ops.rsc.org/OPS3115055> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C070211> .
+-<http://ops.rsc.org/OPS3113584> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/...  6-amino-alpha-(((1-methyl-3-phenylpropyl)amino)methyl)-3-pyridine methanol.> .
+ <http://ops.rsc.org/OPS3101052> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000593450> .
+ <http://ops.rsc.org/OPS1485913> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C084468> .
+ <http://ops.rsc.org/OPS1466472> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C522498> .
+@@ -21894,7 +21790,6 @@
+ <http://ops.rsc.org/OPS3117945> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C090349> .
+ <http://ops.rsc.org/OPS3099208> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C507737> .
+ <http://ops.rsc.org/OPS3104010> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C557925> .
+-<http://ops.rsc.org/OPS1863943> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... (4-(ethoxycarbonyl)phenyl)amino)(2,2,4,4-tetramethyl thiochroman-6-yl)amino)> .
+ <http://ops.rsc.org/OPS1742265> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C547443> .
+ <http://ops.rsc.org/OPS1869174> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C078772> .
+ <http://ops.rsc.org/OPS3117484> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C087610> .
+@@ -21928,7 +21823,6 @@
+ <http://ops.rsc.org/OPS6228> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C024820> .
+ <http://ops.rsc.org/OPS3100988> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000593864> .
+ <http://ops.rsc.org/OPS1649085> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C551010> .
+-<http://ops.rsc.org/OPS1657946> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... oside. 7-((2-O-(6-deoxy- alpha-L-mannopyranosyl)-beta-D-glucopyranosyl)oxy)-> .
+ <http://ops.rsc.org/OPS3111392> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C049136> .
+ <http://ops.rsc.org/OPS1878340> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C120173> .
+ <http://ops.rsc.org/OPS1647299> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C540870> .
+@@ -22242,7 +22136,6 @@
+ <http://ops.rsc.org/OPS1901057> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C503897> .
+ <http://ops.rsc.org/OPS1323581> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C009846> .
+ <http://ops.rsc.org/OPS3114639> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C068305> .
+-<http://ops.rsc.org/OPS3110469> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 22> .
+ <http://ops.rsc.org/OPS789163> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D005711> .
+ <http://ops.rsc.org/OPS810866> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C055540> .
+ <http://ops.rsc.org/OPS1054450> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C531230> .
+@@ -22488,7 +22381,6 @@
+ <http://ops.rsc.org/OPS3099489> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C522291> .
+ <http://ops.rsc.org/OPS1875084> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C475344> .
+ <http://ops.rsc.org/OPS1379301> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C058179> .
+-<http://ops.rsc.org/OPS3108850> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 7> .
+ <http://ops.rsc.org/OPS317027> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C478610> .
+ <http://ops.rsc.org/OPS1039149> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D003565> .
+ <http://ops.rsc.org/OPS624571> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C058251> .
+@@ -22537,7 +22429,6 @@
+ <http://ops.rsc.org/OPS3102378> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C541159> .
+ <http://ops.rsc.org/OPS1864243> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C024548> .
+ <http://ops.rsc.org/OPS1780641> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C113901> .
+-<http://ops.rsc.org/OPS3112856> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... -6,9'-dimethylspiro(2H-pyran-2,3'(4'H)-(7H)pyrano(3,4-c)(1,2,5)trioxepin)-7'> .
+ <http://ops.rsc.org/OPS3103695> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C552374> .
+ <http://ops.rsc.org/OPS3100692> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000590039> .
+ <http://ops.rsc.org/OPS1364183> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C079285> .
+@@ -22546,7 +22437,6 @@
+ <http://ops.rsc.org/OPS3110034> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C019168> .
+ <http://ops.rsc.org/OPS3098093> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C478241> .
+ <http://ops.rsc.org/OPS1465655> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C092486> .
+-<http://ops.rsc.org/OPS3108145> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... e. cyclic (1-5)- disulfide N-(3-mercapto-1-oxopropyl)-L-tyrosyl-L-isoleucyl-> .
+ <http://ops.rsc.org/OPS3114573> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C065048> .
+ <http://ops.rsc.org/OPS1584274> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C016834> .
+ <http://ops.rsc.org/OPS398331> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C545811> .
+@@ -22556,7 +22446,6 @@
+ <http://ops.rsc.org/OPS3104254> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C555558> .
+ <http://ops.rsc.org/OPS1868037> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C509961> .
+ <http://ops.rsc.org/OPS1499274> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C456405> .
+-<http://ops.rsc.org/OPS3108646> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... '-hydroxy-6,7-benzomorphan. 1,2,3,4,5,6-hexahydro-3,11-dimethyl-2,6-methano-> .
+ <http://ops.rsc.org/OPS3104262> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C557068> .
+ <http://ops.rsc.org/OPS1342923> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C546444> .
+ <http://ops.rsc.org/OPS955909> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C524042> .
+@@ -22626,7 +22515,6 @@
+ <http://ops.rsc.org/OPS1870649> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C464879> .
+ <http://ops.rsc.org/OPS1463186> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C476144> .
+ <http://ops.rsc.org/OPS3113680> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C061656> .
+-<http://ops.rsc.org/OPS3094820> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ine. 3-((4-amino-2-methyl-5-pyrimidinyl)methyl)-5-(2-hydroxyethyl)-4-methyl-> .
+ <http://ops.rsc.org/OPS3101704> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C534222> .
+ <http://ops.rsc.org/OPS2985320> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C011719> .
+ <http://ops.rsc.org/OPS1862339> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C019356> .
+@@ -22736,7 +22624,6 @@
+ <http://ops.rsc.org/OPS3103888> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C553421> .
+ <http://ops.rsc.org/OPS1710232> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C063976> .
+ <http://ops.rsc.org/OPS3106522> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000598766> .
+-<http://ops.rsc.org/OPS3057848> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... methyl-16-methylene-17 alpha-hydroxy-4,6- pregnadiene-3,20-dione 17-acetate.> .
+ <http://ops.rsc.org/OPS1880994> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C072227> .
+ <http://ops.rsc.org/OPS3111043> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C024088> .
+ <http://ops.rsc.org/OPS626083> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C014328> .
+@@ -23180,7 +23067,6 @@
+ <http://ops.rsc.org/OPS1070167> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C010595> .
+ <http://ops.rsc.org/OPS3041632> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C007259> .
+ <http://ops.rsc.org/OPS3107989> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C008153> .
+-<http://ops.rsc.org/OPS1784184> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ha-D-mannopyranosyl phosphate. 1-(3,7-dimethyl-6-octenyl hydrogen phosphate)> .
+ <http://ops.rsc.org/OPS1902249> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C504526> .
+ <http://ops.rsc.org/OPS3097699> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C471539> .
+ <http://ops.rsc.org/OPS3115902> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C074989> .
+@@ -23335,7 +23221,6 @@
+ <http://ops.rsc.org/OPS3116806> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C082180> .
+ <http://ops.rsc.org/OPS3099612> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C525294> .
+ <http://ops.rsc.org/OPS3094913> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C106060> .
+-<http://ops.rsc.org/OPS3111054> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... ma-p-azidoanilide. adenosine 5'-(trihydrogen diphosphate) monoanhydride with> .
+ <http://ops.rsc.org/OPS3115844> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C074732> .
+ <http://ops.rsc.org/OPS3100611> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000588775> .
+ <http://ops.rsc.org/OPS3111927> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C053259> .
+@@ -23565,7 +23450,6 @@
+ <http://ops.rsc.org/OPS3103593> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C551889> .
+ <http://ops.rsc.org/OPS3101873> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000597352> .
+ <http://ops.rsc.org/OPS3103254> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C547056> .
+-<http://ops.rsc.org/OPS530445> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... e tromethamine. compd. with 2-amino-2- (hydroxymethyl)-1,3-propanediol (1> .
+ <http://ops.rsc.org/OPS3095843> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C117945> .
+ <http://ops.rsc.org/OPS3099502> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C523292> .
+ <http://ops.rsc.org/OPS1755552> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C083419> .
+@@ -23892,7 +23776,6 @@
+ <http://ops.rsc.org/OPS1383316> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C074652> .
+ <http://ops.rsc.org/OPS3114579> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C065432> .
+ <http://ops.rsc.org/OPS1571590> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C504523> .
+-<http://ops.rsc.org/OPS3110904> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 5-trideoxy-5-(L-methionyl)amino-beta-D-glycero-pent-2-enofuranosyl)cytosine.> .
+ <http://ops.rsc.org/OPS3099075> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C504134> .
+ <http://ops.rsc.org/OPS1776267> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C054050> .
+ <http://ops.rsc.org/OPS3105250> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C570674> .
+@@ -24188,7 +24071,6 @@
+ <http://ops.rsc.org/OPS1862743> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D000502> .
+ <http://ops.rsc.org/OPS3115781> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C075266> .
+ <http://ops.rsc.org/OPS1867256> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000245> .
+-<http://ops.rsc.org/OPS3110201> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... idinylidene)ethylidene)-5- (beta-D-glucopyranosyloxy)-2,3-dihydro-6-hydroxy-> .
+ <http://ops.rsc.org/OPS663113> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D011692> .
+ <http://ops.rsc.org/OPS3100684> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000588967> .
+ <http://ops.rsc.org/OPS104582> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/D013423> .
+@@ -24300,8 +24182,6 @@
+ <http://ops.rsc.org/OPS3106470> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C581627> .
+ <http://ops.rsc.org/OPS511951> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C570534> .
+ <http://ops.rsc.org/OPS3109810> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C017194> .
+-<http://ops.rsc.org/OPS1346934> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... )indole. 2-methyl-4-((5-methyl- 5H-1,2,4-triazino(5,6-b)indol-3-yl))amino-2-> .
+-<http://ops.rsc.org/OPS3110267> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/... 2-amino-1,4,7,8-tetrahydro- 4-oxo-6-pteridinyl)-3-hydroxy-2-oxopropylidene)-> .
+ <http://ops.rsc.org/OPS1050445> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C501649> .
+ <http://ops.rsc.org/OPS3101370> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C000596333> .
+ <http://ops.rsc.org/OPS3111541> skos:exactMatch <http://purl.bioontology.org/ontology/MSH/C049568> .
