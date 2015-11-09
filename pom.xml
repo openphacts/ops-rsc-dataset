@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.openphacts.data</groupId>
+  <artifactId>ops-rsc-dataset</artifactId>
+  <version>20151104-SNAPSHOT</version>
+  <packaging>data</packaging>
+  <name>Open PHACTS RSC linksets</name>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <download.directory>${project.build.directory}/download/</download.directory>
+    <version>2015.10.09</version>
+    <folder>2014-10-09</folder>
+    <sha1>63b33ab6f05efc2006104c720008277b625fbf9a</sha1>
+  </properties>
+
+  <licenses>
+    <license>
+      <name>Creative Commons Attribution-ShareAlike 3.0 Unported</name>
+      <url>http://creativecommons.org/licenses/by-sa/3.0/</url>
+    </license>
+  </licenses>
+
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>no.s11.dataplugin</groupId>
+          <artifactId>data-maven-plugin</artifactId>
+          <version>0.0.6-SNAPSHOT</version>
+          <extensions>true</extensions>
+          <configuration>
+            <dataDirectory>${download.directory}/${folder}</dataDirectory>
+          </configuration>
+      </plugin>
+      <plugin>
+        <groupId>com.googlecode.maven-download-plugin</groupId>
+        <artifactId>download-maven-plugin</artifactId>
+        <version>1.2.1</version>
+        <executions>
+            <execution>
+                <id>get-</id>
+                <phase>generate-sources</phase>
+                <goals>
+                    <goal>wget</goal>
+                </goals>
+                <configuration>
+                    <!--<url>http://ops.rsc.org/download/RDF-2015.11.04.zip</url>-->
+                    <url>http://ops.rsc.org/download/RDF-2015.10.09.zip</url>
+                    <unpack>true</unpack>
+                    <outputDirectory>${download.directory}</outputDirectory>
+                    <!--<sha1>${sha1}</sha1>-->
+                </configuration>
+            </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+
+  <repositories>
+    <repository>
+      <id>ops</id>
+      <name>Open PHACTS repository</name>
+      <url>http://repository.mygrid.org.uk/artifactory/ops/</url>
+      <releases />
+      <snapshots />
+    </repository>
+  </repositories>
+
+  <distributionManagement>
+    <repository>
+      <id>ops</id>
+      <name>Open PHACTS repository</name>
+      <url>http://repository.mygrid.org.uk/artifactory/ops/</url>
+    </repository>
+    <snapshotRepository>
+      <id>ops</id>
+      <name>Open PHACTS repository</name>
+      <url>http://repository.mygrid.org.uk/artifactory/ops/</url>
+    </snapshotRepository>
+  </distributionManagement>
+</project>
