@@ -36,6 +36,28 @@
           </configuration>
       </plugin>
       <plugin>
+        <groupId>com.googlecode.maven-download-plugin</groupId>
+        <artifactId>download-maven-plugin</artifactId>
+        <version>1.2.1</version>
+        <executions>
+            <execution>
+                <id>get-data</id>
+                <phase>generate-sources</phase>
+                <goals>
+                    <goal>wget</goal>
+                </goals>
+                <configuration>
+                    <!--<url>http://ops.rsc.org/download/RDF-2015.11.04.zip</url>-->
+                    <url>http://ops.rsc.org/download/RDF-${version}.zip</url>
+                    <unpack>true</unpack>
+                    <outputDirectory>${download.directory}</outputDirectory>
+                    <sha1>${sha1}</sha1>
+                    <!--<skipCache>true</skipCache>-->
+                </configuration>
+            </execution>
+        </executions>
+      </plugin>
+      <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-patch-plugin</artifactId>
         <version>1.2</version>
@@ -58,26 +80,26 @@
         </executions>
       </plugin>
       <plugin>
-        <groupId>com.googlecode.maven-download-plugin</groupId>
-        <artifactId>download-maven-plugin</artifactId>
-        <version>1.2.1</version>
-        <executions>
-            <execution>
-                <id>get-data</id>
-                <phase>generate-sources</phase>
-                <goals>
-                    <goal>wget</goal>
-                </goals>
-                <configuration>
-                    <!--<url>http://ops.rsc.org/download/RDF-2015.11.04.zip</url>-->
-                    <url>http://ops.rsc.org/download/RDF-${version}.zip</url>
-                    <unpack>true</unpack>
-                    <outputDirectory>${download.directory}</outputDirectory>
-                    <sha1>${sha1}</sha1>
-                    <!--<skipCache>true</skipCache>-->
-                </configuration>
-            </execution>
-        </executions>
+	<artifactId>maven-antrun-plugin</artifactId>
+	    <executions>
+	      <execution>
+		<id>fix-chembl</id>
+		<phase>process-sources</phase>
+		<configuration>
+		  <tasks>
+		    <replace token="ops:OPSOPS" value="ops:OPS" dir="${data.directory}" encoding="UTF-8">                                 
+		      <include name="CHEMBL/PROPERTIES*.ttl"/>
+		    </replace>
+		    <replace token="http://ops.rsc.org//" value="http://ops.rsc.org/" dir="${data.directory}" encoding="UTF-8">                                 
+		      <include name="**/*.ttl"/>
+		    </replace>
+		  </tasks>
+		</configuration>
+		<goals>
+		  <goal>run</goal>
+		</goals>
+	      </execution>
+	    </executions>
       </plugin>
     </plugins>
   </build>
