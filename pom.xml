@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openphacts.data</groupId>
   <artifactId>ops-rsc-dataset</artifactId>
-  <version>20151104-SNAPSHOT</version>
+  <version>0.20151104.0-SNAPSHOT</version>
   <packaging>data</packaging>
   <name>Open PHACTS RSC linksets</name>
   <properties>
@@ -22,7 +22,12 @@
       <url>http://creativecommons.org/licenses/by-sa/3.0/</url>
     </license>
   </licenses>
-
+  <scm>
+    <connection>scm:git:https://github.com/openphacts/ops-rsc-dataset.git</connection>
+    <developerConnection>scm:git:git@github.com:openphacts/ops-rsc-dataset.git</developerConnection>
+    <url>https://github.com/openphacts/ops-rsc-dataset</url>
+    <tag>HEAD</tag>
+  </scm>
 
   <build>
     <plugins>
@@ -80,26 +85,26 @@
         </executions>
       </plugin>
       <plugin>
-	<artifactId>maven-antrun-plugin</artifactId>
-	    <executions>
-	      <execution>
-		<id>fix-chembl</id>
-		<phase>process-sources</phase>
-		<configuration>
-		  <tasks>
-		    <replace token="ops:OPSOPS" value="ops:OPS" dir="${data.directory}" encoding="UTF-8">                                 
-		      <include name="CHEMBL/PROPERTIES*.ttl"/>
-		    </replace>
-		    <replace token="http://ops.rsc.org//" value="http://ops.rsc.org/" dir="${data.directory}" encoding="UTF-8">                                 
-		      <include name="**/*.ttl"/>
-		    </replace>
-		  </tasks>
-		</configuration>
-		<goals>
-		  <goal>run</goal>
-		</goals>
-	      </execution>
-	    </executions>
+        <artifactId>maven-antrun-plugin</artifactId>
+            <executions>
+              <execution>
+                <id>fix-chembl</id>
+                <phase>process-sources</phase>
+                <configuration>
+                  <tasks>
+                    <replace token="ops:OPSOPS" value="ops:OPS" dir="${data.directory}" encoding="UTF-8">
+                      <include name="CHEMBL/PROPERTIES*.ttl"/>
+                    </replace>
+                    <replace token="http://ops.rsc.org//" value="http://ops.rsc.org/" dir="${data.directory}" encoding="UTF-8">
+                      <include name="**/*.ttl"/>
+                    </replace>
+                  </tasks>
+                </configuration>
+                <goals>
+                  <goal>run</goal>
+                </goals>
+              </execution>
+            </executions>
       </plugin>
     </plugins>
   </build>
