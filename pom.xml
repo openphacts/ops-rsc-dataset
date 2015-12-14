@@ -98,6 +98,9 @@
                     <replace token="http://ops.rsc.org//" value="http://ops.rsc.org/" dir="${data.directory}" encoding="UTF-8">
                       <include name="**/*.ttl"/>
                     </replace>
+                    <replace token="http://purl.uniprot.org/pdb/" value="http://identifiers.org/pdb.ligand/" dir="${data.directory}" encoding="UTF-8">
+                      <include name="PDB/*.ttl"/>
+                    </replace>
                   </tasks>
                 </configuration>
                 <goals>
